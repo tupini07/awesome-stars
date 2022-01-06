@@ -157,6 +157,7 @@
 
 ## Go 
 
+- [bjatkin/golf-engine](https://github.com/bjatkin/golf-engine) - A small fantasy game engine in WASM using GoLang
 - [SolarLune/masterplan](https://github.com/SolarLune/masterplan) - MasterPlan is a project management software / visual idea board software. It attempts to be easy to use, lightweight, and fun.
 - [anaseto/gruid-rltuto](https://github.com/anaseto/gruid-rltuto) - roguelike tutorial in Go using the framework gruid
 - [anaseto/gruid](https://github.com/anaseto/gruid) - Cross-platform grid-based UI and game framework.
@@ -230,6 +231,7 @@
 
 ## JavaScript 
 
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
 - [arnog/tecendil-backend](https://github.com/arnog/tecendil-backend) - Tengwar web app
@@ -305,6 +307,7 @@
 
 ## Lua 
 
+- [mateus-md/leaf](https://github.com/mateus-md/leaf) - leaf (Love's Extensions And Facilities) is collection of libraries and classes for LÖVE.
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [HamdyElzonqali/ldtk-love](https://github.com/HamdyElzonqali/ldtk-love) - LDtk loader for LÖVE.
 - [picolove/picolove](https://github.com/picolove/picolove) - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
