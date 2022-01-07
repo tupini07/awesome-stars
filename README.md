@@ -157,6 +157,7 @@
 
 ## Go 
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bjatkin/golf-engine](https://github.com/bjatkin/golf-engine) - A small fantasy game engine in WASM using GoLang
 - [SolarLune/masterplan](https://github.com/SolarLune/masterplan) - MasterPlan is a project management software / visual idea board software. It attempts to be easy to use, lightweight, and fun.
 - [anaseto/gruid-rltuto](https://github.com/anaseto/gruid-rltuto) - roguelike tutorial in Go using the framework gruid
@@ -307,6 +308,8 @@
 
 ## Lua 
 
+- [tesselode/cartographer](https://github.com/tesselode/cartographer) - Simple Tiled map loading for LÖVE.
+- [flamendless/Slab](https://github.com/flamendless/Slab) - An immediate mode GUI for the Love2D framework.
 - [mateus-md/leaf](https://github.com/mateus-md/leaf) - leaf (Love's Extensions And Facilities) is collection of libraries and classes for LÖVE.
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
 - [HamdyElzonqali/ldtk-love](https://github.com/HamdyElzonqali/ldtk-love) - LDtk loader for LÖVE.
@@ -539,7 +542,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Zig 
