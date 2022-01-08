@@ -232,6 +232,7 @@
 
 ## JavaScript 
 
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
@@ -542,6 +543,7 @@
 
 ## Vue 
 
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Desktop music streaming browser
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
