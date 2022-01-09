@@ -454,7 +454,7 @@
 - [SergiusIW/gate](https://github.com/SergiusIW/gate) - A specialized 2D game library
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [PradeepKumarRajamanickam/kurinji](https://github.com/PradeepKumarRajamanickam/kurinji) - Kurinji Input Map aims to decouple game play code from device specific input api. This is achieved by providing apis that allows you to map game actions to device input events instead of directly handling device inputs.
-- [mockersf/bevy_extra](https://github.com/mockersf/bevy_extra) - Helpers and Plugins for Bevy
+- [vleue/bevy_easings](https://github.com/vleue/bevy_easings) - Helpers and Plugins for Bevy
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of 2004 freeware video game Cave Story written in Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
