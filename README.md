@@ -228,7 +228,6 @@
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [claritylab/lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
 - [bitletorg/bitlet](https://github.com/bitletorg/bitlet) - A small Java bittorrent library, powering BitLet.org
-- [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 
 ## JavaScript 
 
@@ -306,6 +305,7 @@
 - [waifu-motivator/waifu-motivator-plugin](https://github.com/waifu-motivator/waifu-motivator-plugin) - OSS Waifu Motivator Plugin for Jetbrains to help boost your motivation while coding!
 - [abertschi/ad-free](https://github.com/abertschi/ad-free) - A modularized audio ad blocker for Android
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+- [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 
 ## Lua 
 
