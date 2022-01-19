@@ -263,7 +263,7 @@
 - [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop) - OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [turbo/js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
-- [MaiaVictor/WebMonkeys](https://github.com/MaiaVictor/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
+- [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
 - [mathiasvr/youtube-terminal](https://github.com/mathiasvr/youtube-terminal) - :tv: Stream YouTube videos as ascii art in the terminal!
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
@@ -458,7 +458,7 @@
 - [PradeepKumarRajamanickam/kurinji](https://github.com/PradeepKumarRajamanickam/kurinji) - Kurinji Input Map aims to decouple game play code from device specific input api. This is achieved by providing apis that allows you to map game actions to device input events instead of directly handling device inputs.
 - [vleue/bevy_easings](https://github.com/vleue/bevy_easings) - Helpers and Plugins for Bevy
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
-- [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of 2004 freeware video game Cave Story written in Rust
+- [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
