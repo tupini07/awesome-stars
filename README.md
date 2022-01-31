@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [prolog/shadow-of-the-wyrm](https://github.com/prolog/shadow-of-the-wyrm) - Traditional roguelike game in the spirit of ADOM and Omega.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
@@ -157,6 +158,8 @@
 
 ## Go 
 
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bjatkin/golf-engine](https://github.com/bjatkin/golf-engine) - A small fantasy game engine in WASM using GoLang
 - [SolarLune/masterplan](https://github.com/SolarLune/masterplan) - MasterPlan is a project management software / visual idea board software. It attempts to be easy to use, lightweight, and fun.
@@ -231,6 +234,7 @@
 
 ## JavaScript 
 
+- [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
@@ -459,7 +463,7 @@
 - [vleue/bevy_easings](https://github.com/vleue/bevy_easings) - Helpers and Plugins for Bevy
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
@@ -518,6 +522,7 @@
 
 ## TypeScript 
 
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
 - [teal-language/vscode-teal](https://github.com/teal-language/vscode-teal) - Teal language support for Visual Studio Code
 - [hazzard993/love-typescript-template](https://github.com/hazzard993/love-typescript-template) - A template project to get started with a TypeScript LÖVE 2D project
