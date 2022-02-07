@@ -52,6 +52,7 @@
 
 ## C 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sol-vin/raylib-cr](https://github.com/sol-vin/raylib-cr) - LibRaylib Bindings for Crystal.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
@@ -65,6 +66,7 @@
 
 ## C# # 
 
+- [Martenfur/Monofoxe](https://github.com/Martenfur/Monofoxe) - Foxes made Monogame easy.
 - [curiosity-ai/catalyst](https://github.com/curiosity-ai/catalyst) - 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [endlesstravel/Love2dCS](https://github.com/endlesstravel/Love2dCS) - C# Wrapper for LÖVE, a 2d game engine
@@ -87,6 +89,8 @@
 
 ## C++ 
 
+- [ProfJski/RayLib-Examples](https://github.com/ProfJski/RayLib-Examples) - Some fun math or physics demos made easy with RayLib
+- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [prolog/shadow-of-the-wyrm](https://github.com/prolog/shadow-of-the-wyrm) - Traditional roguelike game in the spirit of ADOM and Omega.
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
@@ -158,7 +162,8 @@
 
 ## Go 
 
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang.
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [bjatkin/golf-engine](https://github.com/bjatkin/golf-engine) - A small fantasy game engine in WASM using GoLang
@@ -235,7 +240,7 @@
 ## JavaScript 
 
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
-- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your apps with style.
+- [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
@@ -313,6 +318,7 @@
 
 ## Lua 
 
+- [26F-Studio/Emmy-love-api](https://github.com/26F-Studio/Emmy-love-api) - LÖVE2D API
 - [tesselode/cartographer](https://github.com/tesselode/cartographer) - Simple Tiled map loading for LÖVE.
 - [flamendless/Slab](https://github.com/flamendless/Slab) - An immediate mode GUI for the Love2D framework.
 - [mateus-md/leaf](https://github.com/mateus-md/leaf) - leaf (Love's Extensions And Facilities) is collection of libraries and classes for LÖVE.
@@ -380,6 +386,7 @@
 
 ## Python 
 
+- [halcy/hellomotoot](https://github.com/halcy/hellomotoot) - PSTN Mastodon Client using Mastodon.py and the Twilio API
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TrippW/HadesBot](https://github.com/TrippW/HadesBot) - A reddit bot that watches the HadesTheGame subreddit and posts helpful hints on what key items and abilities do.
@@ -439,8 +446,9 @@
 
 ## Rust 
 
+- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [LIKO-12/rust_rewrite](https://github.com/LIKO-12/rust_rewrite) - A programming environment that aims to help people learn how to program in JavaScript, while giving them a tour on how old computers and their limitations used to be.
@@ -533,7 +541,7 @@
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
-- [veloce/lichobile](https://github.com/veloce/lichobile) - lichess.org mobile application
+- [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular 5+
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
