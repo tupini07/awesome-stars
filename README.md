@@ -146,6 +146,7 @@
 
 ## Emacs Lisp 
 
+- [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [akhramov/org-wild-notifier.el](https://github.com/akhramov/org-wild-notifier.el) - Alert notifications for org-agenda
 - [zaeph/org-roam-bibtex](https://github.com/zaeph/org-roam-bibtex) - Connector between Org-roam, BibTeX-completion, and Org-ref
@@ -162,6 +163,9 @@
 
 ## Go 
 
+- [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten
+- [Splizard/imgui](https://github.com/Splizard/imgui) - Attempt at a pure Go port of imgui
+- [hajimehoshi/wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
 - [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang.
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -239,6 +243,7 @@
 
 ## JavaScript 
 
+- [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
@@ -270,10 +275,10 @@
 - [mikpanko/expresso](https://github.com/mikpanko/expresso) - Tool to analyze, edit and compare text styles in English -
 - [Wicklets/wick-editor-2018](https://github.com/Wicklets/wick-editor-2018) - Archived - New repo is now at github.com/wicklets/wick-editor
 - [OpenBazaar/openbazaar-desktop](https://github.com/OpenBazaar/openbazaar-desktop) - OpenBazaar 2.0 Desktop Client (talks to openbazaar-go server daemon)
-- [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
+- [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [turbo/js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
 - [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
-- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the Webdriver API
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
 - [mathiasvr/youtube-terminal](https://github.com/mathiasvr/youtube-terminal) - :tv: Stream YouTube videos as ascii art in the terminal!
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
@@ -376,6 +381,7 @@
 
 ## PHP 
 
+- [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 
@@ -386,6 +392,7 @@
 
 ## Python 
 
+- [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
 - [halcy/hellomotoot](https://github.com/halcy/hellomotoot) - PSTN Mastodon Client using Mastodon.py and the Twilio API
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -464,7 +471,7 @@
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
-- [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - High-level procedural templating language
+- [rant-lang/rant](https://github.com/rant-lang/rant) - High-level procedural templating language
 - [SergiusIW/gate](https://github.com/SergiusIW/gate) - A specialized 2D game library
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [PradeepKumarRajamanickam/kurinji](https://github.com/PradeepKumarRajamanickam/kurinji) - Kurinji Input Map aims to decouple game play code from device specific input api. This is achieved by providing apis that allows you to map game actions to device input events instead of directly handling device inputs.
