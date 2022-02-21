@@ -42,6 +42,7 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [Zig](#zig)
@@ -52,6 +53,7 @@
 
 ## C 
 
+- [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sol-vin/raylib-cr](https://github.com/sol-vin/raylib-cr) - LibRaylib Bindings for Crystal.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
@@ -89,6 +91,9 @@
 
 ## C++ 
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [ProfJski/RayLib-Examples](https://github.com/ProfJski/RayLib-Examples) - Some fun math or physics demos made easy with RayLib
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [prolog/shadow-of-the-wyrm](https://github.com/prolog/shadow-of-the-wyrm) - Traditional roguelike game in the spirit of ADOM and Omega.
@@ -163,6 +168,8 @@
 
 ## Go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer written in Go and Ebiten and made for games.
 - [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten
 - [Splizard/imgui](https://github.com/Splizard/imgui) - Attempt at a pure Go port of imgui
 - [hajimehoshi/wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
@@ -364,6 +371,8 @@
 
 ## Others 
 
+- [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
+- [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [stefandevai/awesome-tic-80](https://github.com/stefandevai/awesome-tic-80) - A curated list of awesome TIC-80 tutorials, resources and useful links
@@ -471,7 +480,7 @@
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
-- [rant-lang/rant](https://github.com/rant-lang/rant) - High-level procedural templating language
+- [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
 - [SergiusIW/gate](https://github.com/SergiusIW/gate) - A specialized 2D game library
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [PradeepKumarRajamanickam/kurinji](https://github.com/PradeepKumarRajamanickam/kurinji) - Kurinji Input Map aims to decouple game play code from device specific input api. This is achieved by providing apis that allows you to map game actions to device input events instead of directly handling device inputs.
@@ -550,10 +559,15 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
-- [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular 5+
+- [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [algolia/instantsearch.js](https://github.com/algolia/instantsearch.js) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
+
+## V 
+
+- [vlang/go2v](https://github.com/vlang/go2v) - Go =&gt; V source code translator
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vim script 
 
