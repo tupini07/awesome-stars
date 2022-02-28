@@ -53,6 +53,7 @@
 
 ## C 
 
+- [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [sol-vin/raylib-cr](https://github.com/sol-vin/raylib-cr) - LibRaylib Bindings for Crystal.
@@ -91,6 +92,8 @@
 
 ## C++ 
 
+- [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
+- [degaart/emocrypt](https://github.com/degaart/emocrypt) - Encrypts data into emojipastas
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
@@ -124,7 +127,6 @@
 
 ## Clojure 
 
-- [retrogradeorbit/bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 - [venantius/pyro](https://github.com/venantius/pyro) - Light up your Clojure stacktraces
@@ -168,6 +170,7 @@
 
 ## Go 
 
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer written in Go and Ebiten and made for games.
 - [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten
@@ -250,15 +253,18 @@
 
 ## JavaScript 
 
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+- [mathiasbynens/mothereff.in](https://github.com/mathiasbynens/mothereff.in) - Web developer tools
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
+- [retrogradeorbit/bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
 - [arnog/tecendil-backend](https://github.com/arnog/tecendil-backend) - Tengwar web app
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -401,6 +407,7 @@
 
 ## Python 
 
+- [microsoft/KEAR](https://github.com/microsoft/KEAR) - Official code for achieving human parity on CommonsenseQA with External Attention
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
 - [halcy/hellomotoot](https://github.com/halcy/hellomotoot) - PSTN Mastodon Client using Mastodon.py and the Twilio API
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -462,6 +469,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
