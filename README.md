@@ -53,6 +53,7 @@
 
 ## C 
 
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -69,6 +70,7 @@
 
 ## C# # 
 
+- [jfarleyx/simple-event-hub-explorer](https://github.com/jfarleyx/simple-event-hub-explorer) - A simple, but helpful Windows forms app for sending messages to or viewing messages in an Azure Event Hub.
 - [Martenfur/Monofoxe](https://github.com/Martenfur/Monofoxe) - Foxes made Monogame easy.
 - [curiosity-ai/catalyst](https://github.com/curiosity-ai/catalyst) - 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -92,6 +94,8 @@
 
 ## C++ 
 
+- [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
+- [Madour/LDtkLoader](https://github.com/Madour/LDtkLoader) - A C++11 loader for levels and tile maps created with LDtk (Level Designer ToolKit)
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [degaart/emocrypt](https://github.com/degaart/emocrypt) - Encrypts data into emojipastas
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -172,7 +176,7 @@
 
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer written in Go and Ebiten and made for games.
+- [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebiten.
 - [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten
 - [Splizard/imgui](https://github.com/Splizard/imgui) - Attempt at a pure Go port of imgui
 - [hajimehoshi/wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
@@ -246,6 +250,7 @@
 
 ## Java 
 
+- [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [claritylab/lucida](https://github.com/claritylab/lucida) - Speech and Vision Based Intelligent Personal Assistant
@@ -407,13 +412,14 @@
 
 ## Python 
 
+- [gp2112/snowflake-cli](https://github.com/gp2112/snowflake-cli) - A simple python script for hosting a Snowflake Proxy in your python program or with it's standalone cli
 - [microsoft/KEAR](https://github.com/microsoft/KEAR) - Official code for achieving human parity on CommonsenseQA with External Attention
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
 - [halcy/hellomotoot](https://github.com/halcy/hellomotoot) - PSTN Mastodon Client using Mastodon.py and the Twilio API
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TrippW/HadesBot](https://github.com/TrippW/HadesBot) - A reddit bot that watches the HadesTheGame subreddit and posts helpful hints on what key items and abilities do.
-- [YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor) - The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access
+- [YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor) - The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.
 - [dansanderson/picotool](https://github.com/dansanderson/picotool) - Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [nimbo-sh/nimbo](https://github.com/nimbo-sh/nimbo) - Run compute jobs on AWS as if you were running them locally.
@@ -593,6 +599,7 @@
 
 ## Zig 
 
+- [marler8997/zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
