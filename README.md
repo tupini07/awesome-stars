@@ -21,6 +21,7 @@
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
+  - [Idris](#idris)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Julia](#julia)
@@ -31,6 +32,7 @@
   - [Matlab](#matlab)
   - [Nim](#nim)
   - [OCaml](#ocaml)
+  - [Odin](#odin)
   - [Others](#others)
   - [PHP](#php)
   - [PowerShell](#powershell)
@@ -174,6 +176,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebiten.
@@ -247,6 +250,10 @@
 - [AustinEast/heaps-aseprite](https://github.com/AustinEast/heaps-aseprite) - An Aseprite File Parser for Heaps
 - [YAL-Haxe/hxpico8](https://github.com/YAL-Haxe/hxpico8) - Experimental Lua target for Haxe
 - [deepnight/gameBase](https://github.com/deepnight/gameBase) - Base structure for my games, using Heaps framework and Haxe language.
+
+## Idris 
+
+- [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 
 ## Java 
 
@@ -324,6 +331,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [mancinimassimiliano/DeepLearningLab](https://github.com/mancinimassimiliano/DeepLearningLab) - Exercise for the deep learning course
 - [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) - Tutorials and programming exercises for learning Q# and quantum computing
@@ -369,7 +377,7 @@
 
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
-- [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs At
+- [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
 - [calebwin/pipelines](https://github.com/calebwin/pipelines) - An experimental programming language for data flow
 - [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
 - [yglukhov/nimx](https://github.com/yglukhov/nimx) - GUI library
@@ -379,6 +387,10 @@
 ## OCaml 
 
 - [jaredly/reason-language-server](https://github.com/jaredly/reason-language-server) - A language server for reason, in reason
+
+## Odin 
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## Others 
 
@@ -475,6 +487,8 @@
 
 ## Rust 
 
+- [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
+- [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
