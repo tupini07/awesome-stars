@@ -176,6 +176,8 @@
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -489,6 +491,7 @@
 
 ## Rust 
 
+- [openfare/openfare](https://github.com/openfare/openfare) - Micropayment funded software.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
@@ -551,6 +554,7 @@
 
 ## Scala 
 
+- [allenai/ScienceWorld](https://github.com/allenai/ScienceWorld) - ScienceWorld is a text-based virtual environment centered around accomplishing tasks from the standardized elementary science curriculum.
 - [rikvdkleij/intellij-haskell](https://github.com/rikvdkleij/intellij-haskell) - IntelliJ plugin for Haskell
 
 ## Scheme 
@@ -612,7 +616,7 @@
 ## Vue 
 
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Desktop music streaming browser
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Zig 
