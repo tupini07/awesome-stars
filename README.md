@@ -96,6 +96,8 @@
 
 ## C++ 
 
+- [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
+- [Haruno19/starfetch](https://github.com/Haruno19/starfetch) - command line tool that displays constellations
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [Madour/LDtkLoader](https://github.com/Madour/LDtkLoader) - A C++11 loader for levels and tile maps created with LDtk (Level Designer ToolKit)
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -249,6 +251,7 @@
 
 ## Haxe 
 
+- [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [AustinEast/heaps-aseprite](https://github.com/AustinEast/heaps-aseprite) - An Aseprite File Parser for Heaps
 - [YAL-Haxe/hxpico8](https://github.com/YAL-Haxe/hxpico8) - Experimental Lua target for Haxe
 - [deepnight/gameBase](https://github.com/deepnight/gameBase) - Base structure for my games, using Heaps framework and Haxe language.
@@ -259,6 +262,7 @@
 
 ## Java 
 
+- [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -592,6 +596,7 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [torch2424/picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 Carts as Standalone Applications on Desktop 🖥️(Electron) and Mobile 📱(Ionic) 📦👾
 - [duiker101/reddit-pokepals](https://github.com/duiker101/reddit-pokepals) - A simple website to interact with the Pokemon Go friend codes posted in the r/PokemonGoFriends subreddit
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
@@ -618,7 +623,6 @@
 ## Vue 
 
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Desktop music streaming browser
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Zig 
