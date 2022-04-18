@@ -16,6 +16,7 @@
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
+  - [Fennel](#fennel)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -161,6 +162,7 @@
 
 ## Emacs Lisp 
 
+- [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
 - [akhramov/org-wild-notifier.el](https://github.com/akhramov/org-wild-notifier.el) - Alert notifications for org-agenda
@@ -175,6 +177,12 @@
 
 - [SaturnFramework/Saturn](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern
 - [ChrisPritchard/FSH](https://github.com/ChrisPritchard/FSH) - F# Shell with integrated F# scripting. Like Bash or Powershell, but better 'cause F#.
+
+## Fennel 
+
+- [iagoleal/doctor.nvim](https://github.com/iagoleal/doctor.nvim) - Emacs greatest feature, now also in neovim!
+- [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
+- [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
 
 ## Go 
 
@@ -271,6 +279,7 @@
 
 ## JavaScript 
 
+- [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.4)
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [mathiasbynens/mothereff.in](https://github.com/mathiasbynens/mothereff.in) - Web developer tools
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks that all of the hyperlinks in a markdown text to determine if they are alive or dead
@@ -432,6 +441,7 @@
 
 ## Python 
 
+- [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat client writtten in python
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [gp2112/snowflake-cli](https://github.com/gp2112/snowflake-cli) - A simple python script for hosting a Snowflake Proxy in your python program or with it's standalone cli
 - [microsoft/KEAR](https://github.com/microsoft/KEAR) - Official code for achieving human parity on CommonsenseQA with External Attention
@@ -496,6 +506,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
 - [openfare/openfare](https://github.com/openfare/openfare) - Micropayment funded software.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
