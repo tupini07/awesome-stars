@@ -38,6 +38,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Racket](#racket)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -56,6 +57,7 @@
 
 ## C 
 
+- [andrewchambers/janet-sh](https://github.com/andrewchambers/janet-sh) - Shorthand shell like functions for janet.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
@@ -189,7 +191,7 @@
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebiten.
@@ -333,7 +335,6 @@
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [tryolabs/fetch-it](https://github.com/tryolabs/fetch-it) - An enhanced HTTP client based on fetch.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [Famous/engine](https://github.com/Famous/engine) - 
@@ -443,6 +444,7 @@
 
 ## Python 
 
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [gp2112/snowflake-cli](https://github.com/gp2112/snowflake-cli) - A simple python script for hosting a Snowflake Proxy in your python program or with it's standalone cli
@@ -498,6 +500,10 @@
 - [ecairol/ml-amazon-reviews](https://github.com/ecairol/ml-amazon-reviews) - Classify product comment on Amazon between Positive or Negative reviews.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
+
+## Racket 
+
+- [soegaard/sketching](https://github.com/soegaard/sketching) - A Racket library for creative drawings and animations. Inspired by Processing.
 
 ## Ruby 
 
@@ -578,6 +584,7 @@
 
 ## Scheme 
 
+- [petelliott/raylib-guile](https://github.com/petelliott/raylib-guile) - raylib guile bindings for my good friend jacob's birthday
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [webyrd/Barliman](https://github.com/webyrd/Barliman) - Prototype smart text editor
 
@@ -619,6 +626,7 @@
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [algolia/instantsearch.js](https://github.com/algolia/instantsearch.js) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## V 
 
