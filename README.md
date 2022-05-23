@@ -151,6 +151,8 @@
 
 ## Common Lisp 
 
+- [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
+- [longlene/cl-raylib](https://github.com/longlene/cl-raylib) - Common Lisp binding of raylib
 - [vydd/sketch](https://github.com/vydd/sketch) - A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.
 - [google/lisp-koans](https://github.com/google/lisp-koans) - Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific feat
 
@@ -289,6 +291,7 @@
 
 ## JavaScript 
 
+- [cljsjs/packages](https://github.com/cljsjs/packages) - Javascript libraries packaged up with Google Closure externs
 - [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.4)
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [mathiasbynens/mothereff.in](https://github.com/mathiasbynens/mothereff.in) - Web developer tools
