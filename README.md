@@ -24,6 +24,7 @@
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [Idris](#idris)
+- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -32,6 +33,7 @@
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Nim](#nim)
 - [OCaml](#ocaml)
 - [Odin](#odin)
@@ -58,7 +60,6 @@
 
 ## C 
 
-- [andrewchambers/janet-sh](https://github.com/andrewchambers/janet-sh) - Shorthand shell like functions for janet.
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
@@ -191,6 +192,7 @@
 
 ## Fennel 
 
+- [gbaptista/fnx](https://github.com/gbaptista/fnx) - A package manager for the Fennel language.
 - [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience. (🚀)
 - [iagoleal/doctor.nvim](https://github.com/iagoleal/doctor.nvim) - Emacs greatest feature, now also in neovim!
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
@@ -280,6 +282,10 @@
 
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 
+## Janet 
+
+- [andrewchambers/janet-sh](https://github.com/andrewchambers/janet-sh) - Shorthand shell like functions for janet.
+
 ## Java 
 
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
@@ -304,7 +310,6 @@
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
 - [arnog/tecendil-backend](https://github.com/arnog/tecendil-backend) - Tengwar web app
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -376,6 +381,7 @@
 
 ## Lua 
 
+- [gbaptista/supernova](https://github.com/gbaptista/supernova) - Terminal string styling. Put some color in your console! Support for Fennel, Lua, and Shell.
 - [TheRoboZ/picolove](https://github.com/TheRoboZ/picolove) - Pico-8 Reimplementation in Love2D
 - [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M
 - [26F-Studio/Emmy-love-api](https://github.com/26F-Studio/Emmy-love-api) - LÖVE2D API
@@ -402,6 +408,10 @@
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Mathematica 
+
+- [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
 
 ## Nim 
 
@@ -619,6 +629,7 @@
 
 ## TypeScript 
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [VSpaceCode/VSpaceCode](https://github.com/VSpaceCode/VSpaceCode) - Spacemacs like keybindings for Visual Studio Code
@@ -628,6 +639,7 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [torch2424/picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 Carts as Standalone Applications on Desktop 🖥️(Electron) and Mobile 📱(Ionic) 📦👾
 - [duiker101/reddit-pokepals](https://github.com/duiker101/reddit-pokepals) - A simple website to interact with the Pokemon Go friend codes posted in the r/PokemonGoFriends subreddit
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
