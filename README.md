@@ -60,6 +60,8 @@
 
 ## C 
 
+- [pyrmont/documentarian](https://github.com/pyrmont/documentarian) - A document generation tool for Janet projects
+- [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [greenfork/jzignet](https://github.com/greenfork/jzignet) - Zig library to connect Janet and Zig together
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
@@ -104,7 +106,7 @@
 
 ## C++ 
 
-- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
+- [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) - command line tool that displays constellations
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -144,6 +146,8 @@
 
 ## Clojure 
 
+- [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
+- [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
 - [AlecTroemel/junk-drawer](https://github.com/AlecTroemel/junk-drawer) - A collection of random tools for gamedev.
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
@@ -241,7 +245,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game library for Go
 - [jakecoffman/cp](https://github.com/jakecoffman/cp) - (unofficial) Chipmunk2D in Go, no dependencies
 - [SolarLune/resolv](https://github.com/SolarLune/resolv) - A Simple 2D Golang collision detection and resolution library for games
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -266,6 +270,7 @@
 
 ## Haskell 
 
+- [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [nicuveo/advent-of-code](https://github.com/nicuveo/advent-of-code) - 
 - [commercialhaskell/rio](https://github.com/commercialhaskell/rio) - A standard library for Haskell
@@ -302,6 +307,7 @@
 
 ## JavaScript 
 
+- [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server
 - [cljsjs/packages](https://github.com/cljsjs/packages) - Javascript libraries packaged up with Google Closure externs
 - [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.4)
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
@@ -387,6 +393,7 @@
 
 ## Lua 
 
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [gbaptista/supernova](https://github.com/gbaptista/supernova) - Terminal string styling. Put some color in your console! Support for Fennel, Lua, and Shell.
 - [TheRoboZ/picolove](https://github.com/TheRoboZ/picolove) - Pico-8 Reimplementation in Love2D
 - [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M
@@ -472,6 +479,7 @@
 
 ## Python 
 
+- [sanderland/katrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo!
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
@@ -542,6 +550,7 @@
 
 ## Rust 
 
+- [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
@@ -575,7 +584,7 @@
 - [vleue/bevy_easings](https://github.com/vleue/bevy_easings) - Helpers and Plugins for Bevy
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
@@ -677,6 +686,7 @@
 
 ## Zig 
 
+- [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [marler8997/zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
