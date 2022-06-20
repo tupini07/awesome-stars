@@ -60,6 +60,7 @@
 
 ## C 
 
+- [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
 - [pyrmont/documentarian](https://github.com/pyrmont/documentarian) - A document generation tool for Janet projects
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [greenfork/jzignet](https://github.com/greenfork/jzignet) - Zig library to connect Janet and Zig together
@@ -146,6 +147,7 @@
 
 ## Clojure 
 
+- [babashka/process](https://github.com/babashka/process) - Shell out in Clojure with simplicity and ease
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
 - [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
 - [AlecTroemel/junk-drawer](https://github.com/AlecTroemel/junk-drawer) - A collection of random tools for gamedev.
@@ -262,6 +264,7 @@
 
 ## HTML 
 
+- [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -298,6 +301,7 @@
 
 ## Java 
 
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
@@ -316,7 +320,6 @@
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [retrogradeorbit/bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
 - [arnog/tecendil-backend](https://github.com/arnog/tecendil-backend) - Tengwar web app
@@ -451,6 +454,7 @@
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
+- [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [stefandevai/awesome-tic-80](https://github.com/stefandevai/awesome-tic-80) - A curated list of awesome TIC-80 tutorials, resources and useful links
 - [arnog/tecendil-js](https://github.com/arnog/tecendil-js) - Tengwar mode files and localization for Tecendil
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
@@ -479,6 +483,8 @@
 
 ## Python 
 
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [iSpellcaster/pico8rle](https://github.com/iSpellcaster/pico8rle) - An simple rle encoder for pic08
 - [sanderland/katrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo!
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [kraanzu/gupshup](https://github.com/kraanzu/gupshup) - A TUI chat application writtten in python
@@ -550,6 +556,7 @@
 
 ## Rust 
 
+- [GrayJack/janetrs](https://github.com/GrayJack/janetrs) - Rust high level bindings for Janet
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -674,6 +681,7 @@
 
 ## Vim script 
 
+- [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [scrooloose/vimfiles](https://github.com/scrooloose/vimfiles) - The ~/.vim directory that we share at work
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
