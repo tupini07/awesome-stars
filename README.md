@@ -47,6 +47,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -393,6 +394,7 @@
 
 ## Kotlin 
 
+- [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [Hexworks/zircon](https://github.com/Hexworks/zircon) - Zircon is an extensible and user-friendly, multiplatform tile engine.
 - [waifu-motivator/waifu-motivator-plugin](https://github.com/waifu-motivator/waifu-motivator-plugin) - OSS Waifu Motivator Plugin for Jetbrains IDEs to help boost your motivation while coding!
@@ -489,6 +491,7 @@
 
 ## Python 
 
+- [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [iSpellcaster/pico8rle](https://github.com/iSpellcaster/pico8rle) - An simple rle encoder for pic08
 - [sanderland/katrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo!
@@ -562,6 +565,9 @@
 
 ## Rust 
 
+- [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow.
+- [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
+- [puppetmaster-/vollmond](https://github.com/puppetmaster-/vollmond) - 
 - [GrayJack/janetrs](https://github.com/GrayJack/janetrs) - Rust high level bindings for Janet
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [roapi/roapi](https://github.com/roapi/roapi) - Create full-fledged APIs for slowly moving datasets without writing a single line of code.
@@ -651,6 +657,10 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Lazy-Newb-Pack/Lazy-Newb-Pack-Linux](https://github.com/Lazy-Newb-Pack/Lazy-Newb-Pack-Linux) - A Lazy Newb Pack for Linux
 
+## Swift 
+
+- [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
+
 ## TeX 
 
 - [clever-algorithms/CleverAlgorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Clever Algorithms: Nature-Inspired Programming Recipes
@@ -683,7 +693,7 @@
 ## V 
 
 - [vlang/go2v](https://github.com/vlang/go2v) - Go =&gt; V source code translator
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim script 
 
@@ -701,6 +711,8 @@
 
 ## Zig 
 
+- [nektro/magnolia-desktop](https://github.com/nektro/magnolia-desktop) - A new desktop environment / UI toolkit
+- [luehmann/assemblio](https://github.com/luehmann/assemblio) - 
 - [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig) - Manually tweaked, auto generated raylib bindings for zig. https://github.com/raysan5/raylib
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
 - [marler8997/zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.
