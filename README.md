@@ -221,7 +221,7 @@
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebiten.
-- [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten
+- [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine
 - [Splizard/imgui](https://github.com/Splizard/imgui) - Attempt at a pure Go port of imgui
 - [hajimehoshi/wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
 - [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang.
@@ -569,7 +569,8 @@
 
 ## Rust 
 
-- [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow.
+- [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
+- [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
 - [puppetmaster-/vollmond](https://github.com/puppetmaster-/vollmond) - 
 - [GrayJack/janetrs](https://github.com/GrayJack/janetrs) - Rust high level bindings for Janet
