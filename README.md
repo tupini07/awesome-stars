@@ -172,6 +172,7 @@
 
 ## Crystal 
 
+- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
 - [kostya/myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser with css selectors for Crystal language
 - [elbywan/crystalline](https://github.com/elbywan/crystalline) - A Language Server Protocol implementation for Crystal. 🔮
 - [mccallofthewild/markov](https://github.com/mccallofthewild/markov) - ⛓ A Crystal library for building Markov Chains and running Markov Processes.
@@ -220,7 +221,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [SolarLune/Tetra3d](https://github.com/SolarLune/Tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebiten.
+- [SolarLune/tetra3d](https://github.com/SolarLune/tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebiten.
 - [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine
 - [Splizard/imgui](https://github.com/Splizard/imgui) - Attempt at a pure Go port of imgui
 - [hajimehoshi/wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
@@ -408,7 +409,7 @@
 
 ## Lua 
 
-- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
+- [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allow you to seamlessly manage LSP servers with :LspInstall. With full Windows support! Further development has moved to https://github.com/williamboman/mason.nvim!
 - [gbaptista/supernova](https://github.com/gbaptista/supernova) - Terminal string styling. Put some color in your console! Support for Fennel, Lua, and Shell.
 - [TheRoboZ/picolove](https://github.com/TheRoboZ/picolove) - Pico-8 Reimplementation in Love2D
 - [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M
