@@ -152,7 +152,6 @@
 - [babashka/process](https://github.com/babashka/process) - Shell out in Clojure with simplicity and ease
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
 - [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
-- [AlecTroemel/junk-drawer](https://github.com/AlecTroemel/junk-drawer) - A collection of random tools for gamedev.
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
@@ -304,6 +303,7 @@
 ## Janet 
 
 - [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
+- [AlecTroemel/junk-drawer](https://github.com/AlecTroemel/junk-drawer) - A collection of random tools for gamedev.
 - [andrewchambers/janet-sh](https://github.com/andrewchambers/janet-sh) - Shorthand shell like functions for janet.
 
 ## Java 
@@ -322,6 +322,7 @@
 
 ## JavaScript 
 
+- [rooklift/ogatak](https://github.com/rooklift/ogatak) - KataGo analysis GUI and SGF editor
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [caerphoto/whistletab](https://github.com/caerphoto/whistletab) - Tin Whistle tab creator for D-tuned whistles
