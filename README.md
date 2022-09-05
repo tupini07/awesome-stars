@@ -61,6 +61,7 @@
 
 ## C 
 
+- [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 - [greenfork/nimraylib_now](https://github.com/greenfork/nimraylib_now) - The Ultimate Raylib gaming library wrapper for Nim
 - [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
 - [pyrmont/documentarian](https://github.com/pyrmont/documentarian) - A document generation tool for Janet projects
@@ -150,7 +151,7 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-- [babashka/process](https://github.com/babashka/process) - Shell out in Clojure with simplicity and ease
+- [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning subprocesses
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
 - [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
@@ -181,6 +182,7 @@
 ## Dart 
 
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Elixir 
 
@@ -188,6 +190,7 @@
 
 ## Emacs Lisp 
 
+- [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
@@ -310,6 +313,7 @@
 
 ## Java 
 
+- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [CGrassin/tinwhistletabs](https://github.com/CGrassin/tinwhistletabs) - Tin whistle tabs: listen and play hundreds of traditional tunes!
@@ -325,6 +329,7 @@
 
 ## JavaScript 
 
+- [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
 - [neagle/gokibitz](https://github.com/neagle/gokibitz) - Move-by-move comments on go games.
 - [rooklift/ogatak](https://github.com/rooklift/ogatak) - KataGo analysis GUI and SGF editor
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -418,6 +423,10 @@
 
 ## Lua 
 
+- [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
+- [paulofmandown/rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
+- [propfeds/terminal-blues](https://github.com/propfeds/terminal-blues) - A Code Page 437/ASCII tileset for POWDER.
+- [kiedtl/cursed](https://github.com/kiedtl/cursed) - Your worst nightmare
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - ⚠️ Further development has moved to https://github.com/williamboman/mason.nvim!
 - [gbaptista/supernova](https://github.com/gbaptista/supernova) - Terminal string styling. Put some color in your console! Support for Fennel, Lua, and Shell.
 - [TheRoboZ/picolove](https://github.com/TheRoboZ/picolove) - Pico-8 Reimplementation in Love2D
@@ -580,6 +589,7 @@
 
 ## Rust 
 
+- [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [Toqozz/bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) - A prototype plugin providing a simple line drawing api for bevy.
 - [Nilirad/bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon) - Draw 2D shapes in Bevy
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
@@ -607,7 +617,6 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [LIKO-12/rust-rewrite](https://github.com/LIKO-12/rust-rewrite) - A programming environment that aims to help people learn how to program in JavaScript, while giving them a tour on how old computers and their limitations used to be.
@@ -630,7 +639,7 @@
 - [vleue/bevy_easings](https://github.com/vleue/bevy_easings) - Bevy plugin for easings and simple animations
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
