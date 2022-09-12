@@ -13,6 +13,7 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
+- [D](#d)
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
@@ -84,6 +85,8 @@
 
 ## C# # 
 
+- [FaronBracy/RogueSharp](https://github.com/FaronBracy/RogueSharp) - A .NET Standard class library providing map generation, path-finding, and field-of-view utilities frequently used in roguelikes or 2D tile based games. Inspired by libtcod
+- [Chris3606/GoRogue](https://github.com/Chris3606/GoRogue) - .NET Standard roguelike library in C#.  Features many algorithms and data structures pertinent to roguelike/2D game developers, specifically designed to be minimally intrusive upon the developer's arc
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [jfarleyx/simple-event-hub-explorer](https://github.com/jfarleyx/simple-event-hub-explorer) - A simple, but helpful Windows forms app for sending messages to or viewing messages in an Azure Event Hub.
@@ -110,6 +113,7 @@
 
 ## C++ 
 
+- [HexDecimal/libtcod-vcpkg-template](https://github.com/HexDecimal/libtcod-vcpkg-template) - A template for C++17 libtcod projects.  This template uses Vcpkg to fetch dependencies.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
@@ -179,6 +183,10 @@
 - [mccallofthewild/markov](https://github.com/mccallofthewild/markov) - ⛓ A Crystal library for building Markov Chains and running Markov Processes.
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
+## D 
+
+- [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
+
 ## Dart 
 
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -217,11 +225,16 @@
 
 ## Go 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
+- [BenNicholls/tyumi](https://github.com/BenNicholls/tyumi) - A Set of Roguelike Libraries, including Engine, written in Go
+- [SolarLune/dngn](https://github.com/SolarLune/dngn) - A Golang library for random map generation for games.
+- [SolarLune/egpbc](https://github.com/SolarLune/egpbc) - 
 - [lvank/termsuji](https://github.com/lvank/termsuji) - termsuji is a limited application interacting with online-go.com to play Go in the terminal.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
@@ -329,6 +342,8 @@
 
 ## JavaScript 
 
+- [Larkenx/Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
+- [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide
 - [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
 - [neagle/gokibitz](https://github.com/neagle/gokibitz) - Move-by-move comments on go games.
 - [rooklift/ogatak](https://github.com/rooklift/ogatak) - KataGo analysis GUI and SGF editor
@@ -514,6 +529,7 @@
 
 ## Python 
 
+- [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) - Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
 - [thisismypassport/shrinko8](https://github.com/thisismypassport/shrinko8) - Shrink (minify) Pico-8 carts, as well as other tools (e..g linting, format conversion)
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -716,7 +732,7 @@
 - [duiker101/reddit-pokepals](https://github.com/duiker101/reddit-pokepals) - A simple website to interact with the Pokemon Go friend codes posted in the r/PokemonGoFriends subreddit
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
