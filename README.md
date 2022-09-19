@@ -62,6 +62,7 @@
 
 ## C 
 
+- [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game
 - [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 - [greenfork/nimraylib_now](https://github.com/greenfork/nimraylib_now) - The Ultimate Raylib gaming library wrapper for Nim
 - [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
@@ -113,6 +114,7 @@
 
 ## C++ 
 
+- [mockingbirdnest/Principia](https://github.com/mockingbirdnest/Principia) - 𝑛-Body and Extended Body Gravitation for Kerbal Space Program
 - [HexDecimal/libtcod-vcpkg-template](https://github.com/HexDecimal/libtcod-vcpkg-template) - A template for C++17 libtcod projects.  This template uses Vcpkg to fetch dependencies.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -154,6 +156,8 @@
 
 ## Clojure 
 
+- [felipereigosa/mock-mechanics](https://github.com/felipereigosa/mock-mechanics) - Mechanical/visual programming language
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning subprocesses
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
@@ -189,6 +193,8 @@
 
 ## Dart 
 
+- [alexgladd/fortress](https://github.com/alexgladd/fortress) - Fortress is a package of game development utilities for Dart and Flutter apps.
+- [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -225,6 +231,10 @@
 
 ## Go 
 
+- [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
+- [MicheleFiladelfia/mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer 🌌
+- [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [BenNicholls/tyumi](https://github.com/BenNicholls/tyumi) - A Set of Roguelike Libraries, including Engine, written in Go
@@ -232,7 +242,7 @@
 - [SolarLune/egpbc](https://github.com/SolarLune/egpbc) - 
 - [lvank/termsuji](https://github.com/lvank/termsuji) - termsuji is a limited application interacting with online-go.com to play Go in the terminal.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -296,6 +306,7 @@
 
 ## Haskell 
 
+- [serokell/nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [nicuveo/advent-of-code](https://github.com/nicuveo/advent-of-code) - 
@@ -342,6 +353,8 @@
 
 ## JavaScript 
 
+- [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Larkenx/Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
 - [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide
 - [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
@@ -720,6 +733,7 @@
 
 ## TypeScript 
 
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
