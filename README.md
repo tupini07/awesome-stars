@@ -64,6 +64,7 @@
 
 ## C 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [hanilr/variation-ui](https://github.com/hanilr/variation-ui) - Single-header terminal user interface library. Written in ansi-c
 - [tboox/ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
 - [angband/angband](https://github.com/angband/angband) - A free, single-player roguelike dungeon exploration game
@@ -118,6 +119,7 @@
 
 ## C++ 
 
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx) - C++17 Terminal User Interface(TUI) Library.
@@ -201,6 +203,8 @@
 
 ## Dart 
 
+- [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
+- [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
 - [alexgladd/fortress](https://github.com/alexgladd/fortress) - Fortress is a package of game development utilities for Dart and Flutter apps.
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -244,6 +248,10 @@
 
 ## Go 
 
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
 - [MicheleFiladelfia/mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer 🌌
@@ -560,6 +568,7 @@
 
 ## Python 
 
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) - Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
 - [thisismypassport/shrinko8](https://github.com/thisismypassport/shrinko8) - Shrink (minify) Pico-8 carts, as well as other tools (e..g linting, format conversion)
@@ -642,6 +651,12 @@
 
 ## Rust 
 
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+- [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [gamercade-io/gamercade_console](https://github.com/gamercade-io/gamercade_console) - A Neo-Retro Fantasy Console. Make WASM-powered, networked multiplayer games.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [Toqozz/bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) - A prototype plugin providing a simple line drawing api for bevy.
@@ -801,6 +816,8 @@
 
 ## Zig 
 
+- [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
+- [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
 - [capy-ui/capy](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs in Zig
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
