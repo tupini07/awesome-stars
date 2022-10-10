@@ -328,6 +328,7 @@
 
 ## Haskell 
 
+- [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [serokell/nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
@@ -474,6 +475,7 @@
 
 ## Lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [r0nk/picolove-gym](https://github.com/r0nk/picolove-gym) - openai gym interface to pico8
 - [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - game engine and framework written in luajit
 - [codehz/nelua-lsp](https://github.com/codehz/nelua-lsp) - Experimenting creating a minimal LSP for Nelua to be used for tooling in text editors
@@ -531,6 +533,7 @@
 
 ## Odin 
 
+- [beastmatser/cli](https://github.com/beastmatser/cli) - A simple cli tool for Odin
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## Others 
@@ -651,6 +654,8 @@
 
 ## Rust 
 
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
@@ -783,7 +788,7 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [torch2424/picoDeploy](https://github.com/torch2424/picoDeploy) - Deploy Pico-8 Carts as Standalone Applications on Desktop 🖥️(Electron) and Mobile 📱(Ionic) 📦👾
 - [duiker101/reddit-pokepals](https://github.com/duiker101/reddit-pokepals) - A simple website to interact with the Pokemon Go friend codes posted in the r/PokemonGoFriends subreddit
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
@@ -811,7 +816,7 @@
 ## Vue 
 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Desktop music streaming browser
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Zig 
