@@ -64,6 +64,7 @@
 
 ## C 
 
+- [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [hanilr/variation-ui](https://github.com/hanilr/variation-ui) - Single-header terminal user interface library. Written in ansi-c
 - [tboox/ltui](https://github.com/tboox/ltui) - 🍖 A cross-platform terminal ui library based on Lua
@@ -384,7 +385,7 @@
 - [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
 - [neagle/gokibitz](https://github.com/neagle/gokibitz) - Move-by-move comments on go games.
 - [rooklift/ogatak](https://github.com/rooklift/ogatak) - KataGo analysis GUI and SGF editor
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [caerphoto/whistletab](https://github.com/caerphoto/whistletab) - Tin Whistle tab creator for D-tuned whistles
 - [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server
@@ -571,6 +572,7 @@
 
 ## Python 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) - Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
@@ -647,6 +649,7 @@
 
 ## Ruby 
 
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -654,6 +657,7 @@
 
 ## Rust 
 
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
