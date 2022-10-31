@@ -64,6 +64,7 @@
 
 ## C 
 
+- [Woflox/intoruins](https://github.com/Woflox/intoruins) - A chaotic roguelike full of orbs
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [hanilr/variation-ui](https://github.com/hanilr/variation-ui) - Single-header terminal user interface library. Written in ansi-c
@@ -312,7 +313,7 @@
 - [andrewpillar/cl](https://github.com/andrewpillar/cl) - Concurrently run commands across multiple servers via SSH
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.io.
+- [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 
 ## Groovy 
@@ -662,6 +663,7 @@
 
 ## Rust 
 
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - https://crates.io/crates/topgrade-rs/
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -787,6 +789,7 @@
 
 ## TypeScript 
 
+- [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
@@ -837,7 +840,7 @@
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [nektro/magnolia-desktop](https://github.com/nektro/magnolia-desktop) - A new desktop environment / UI toolkit
+- [nektro/magnolia-desktop](https://github.com/nektro/magnolia-desktop) - A new Linux desktop environment / UI toolkit
 - [luehmann/assemblio](https://github.com/luehmann/assemblio) - 
 - [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig) - Manually tweaked, auto generated raylib bindings for zig. https://github.com/raysan5/raylib
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
