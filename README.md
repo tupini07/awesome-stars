@@ -173,7 +173,6 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning subprocesses
-- [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
 - [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
@@ -215,6 +214,10 @@
 
 ## Elixir 
 
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
+- [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
+- [oestrich/kalevala](https://github.com/oestrich/kalevala) - A world builder's toolkit in Elixir
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 
@@ -269,7 +272,7 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
@@ -361,6 +364,7 @@
 ## Janet 
 
 - [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
+- [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
 - [AlecTroemel/junk-drawer](https://github.com/AlecTroemel/junk-drawer) - A collection of random tools for gamedev.
 - [andrewchambers/janet-sh](https://github.com/andrewchambers/janet-sh) - Shorthand shell like functions for janet.
 
@@ -382,6 +386,7 @@
 
 ## JavaScript 
 
+- [kriskowal/peruacru](https://github.com/kriskowal/peruacru) - Escape from Peruácru Island
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -544,6 +549,7 @@
 
 ## Others 
 
+- [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
@@ -663,7 +669,7 @@
 
 ## Rust 
 
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - https://crates.io/crates/topgrade-rs/
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -836,7 +842,7 @@
 
 - [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
 - [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
-- [capy-ui/capy](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs in Zig
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Cross-platform library for making native GUIs
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
