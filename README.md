@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [NoelFB/blah](https://github.com/NoelFB/blah) - A small 2d c++ game framework
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
@@ -214,6 +215,8 @@
 
 ## Elixir 
 
+- [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
+- [DockYard-Academy/beta_curriculum](https://github.com/DockYard-Academy/beta_curriculum) - 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [bonfire-networks/activity_pub](https://github.com/bonfire-networks/activity_pub) - Modular ActivityPub library in Elixir
 - [elixir-nx/nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir
@@ -588,6 +591,9 @@
 
 ## Python 
 
+- [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [andrewgodwin/takahe](https://github.com/andrewgodwin/takahe) - An ActivityPub/Fediverse server
 - [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists
 - [mouse-reeve/placevalue_ascii](https://github.com/mouse-reeve/placevalue_ascii) - Create integer grids of binary place values for a function
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
@@ -764,7 +770,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for GDNative
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [tomassedovic/roguelike-tutorial](https://github.com/tomassedovic/roguelike-tutorial) - Port of the "Complete Roguelike Tutorial, using python+libtcod" to Rust + tcod
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
@@ -819,7 +825,7 @@
 - [duiker101/reddit-pokepals](https://github.com/duiker101/reddit-pokepals) - A simple website to interact with the Pokemon Go friend codes posted in the r/PokemonGoFriends subreddit
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
-- [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
