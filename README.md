@@ -212,6 +212,7 @@
 - [alexgladd/fortress](https://github.com/alexgladd/fortress) - Fortress is a package of game development utilities for Dart and Flutter apps.
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Elixir 
 
@@ -377,7 +378,7 @@
 
 ## Java 
 
-- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable
+- [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [CGrassin/tinwhistletabs](https://github.com/CGrassin/tinwhistletabs) - Tin whistle tabs: listen and play hundreds of traditional tunes!
@@ -393,6 +394,7 @@
 
 ## JavaScript 
 
+- [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kriskowal/peruacru](https://github.com/kriskowal/peruacru) - Escape from Peruácru Island
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
@@ -482,6 +484,7 @@
 
 ## Kotlin 
 
+- [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -493,6 +496,8 @@
 
 ## Lua 
 
+- [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
+- [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [r0nk/picolove-gym](https://github.com/r0nk/picolove-gym) - openai gym interface to pico8
 - [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - game engine and framework written in luajit
@@ -593,7 +598,7 @@
 
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-- [andrewgodwin/takahe](https://github.com/andrewgodwin/takahe) - An ActivityPub/Fediverse server
+- [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists
 - [mouse-reeve/placevalue_ascii](https://github.com/mouse-reeve/placevalue_ascii) - Create integer grids of binary place values for a function
 - [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
@@ -723,7 +728,6 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [LIKO-12/rust-rewrite](https://github.com/LIKO-12/rust-rewrite) - A programming environment that aims to help people learn how to program in JavaScript, while giving them a tour on how old computers and their limitations used to be.
@@ -784,12 +788,14 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [petelliott/raylib-guile](https://github.com/petelliott/raylib-guile) - raylib guile bindings for my good friend jacob's birthday
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [webyrd/Barliman](https://github.com/webyrd/Barliman) - Prototype smart text editor
 
 ## Shell 
 
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
 - [NickTomlin/rust-rsay](https://github.com/NickTomlin/rust-rsay) - It's cowsay... in Rust
 - [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, Landoop Tools, 20+ connectors
@@ -858,7 +864,7 @@
 
 - [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
 - [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
-- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Cross-platform library for making native GUIs
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Library for easily making cross-platform native GUIs
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
