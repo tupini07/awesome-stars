@@ -94,6 +94,7 @@
 
 ## C# # 
 
+- [BenMakesGames/PlayPlayMini](https://github.com/BenMakesGames/PlayPlayMini) - An opinionated framework for making smallish games with MonoGame.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [FaronBracy/RogueSharp](https://github.com/FaronBracy/RogueSharp) - A .NET Standard class library providing map generation, path-finding, and field-of-view utilities frequently used in roguelikes or 2D tile based games. Inspired by libtcod
 - [Chris3606/GoRogue](https://github.com/Chris3606/GoRogue) - .NET Standard roguelike library in C#.  Features many algorithms and data structures pertinent to roguelike/2D game developers, specifically designed to be minimally intrusive upon the developer's arc
@@ -123,6 +124,9 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+- [khanhas/Polybar](https://github.com/khanhas/Polybar) - A bar
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [NoelFB/blah](https://github.com/NoelFB/blah) - A small 2d c++ game framework
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
@@ -174,7 +178,7 @@
 - [felipereigosa/mock-mechanics](https://github.com/felipereigosa/mock-mechanics) - Mechanical/visual programming language
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
-- [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning subprocesses
+- [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning sub-processes
 - [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
@@ -262,6 +266,7 @@
 
 ## Go 
 
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -394,6 +399,8 @@
 
 ## JavaScript 
 
+- [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [SilenceLeo/snowb-bmf](https://github.com/SilenceLeo/snowb-bmf) - Bitmap Font Generator Online
 - [Heath123/pakkit](https://github.com/Heath123/pakkit) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kriskowal/peruacru](https://github.com/kriskowal/peruacru) - Escape from Peruácru Island
@@ -596,6 +603,8 @@
 
 ## Python 
 
+- [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
@@ -774,7 +783,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for GDNative
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [tomassedovic/roguelike-tutorial](https://github.com/tomassedovic/roguelike-tutorial) - Port of the "Complete Roguelike Tutorial, using python+libtcod" to Rust + tcod
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
