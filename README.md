@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [khanhas/Polybar](https://github.com/khanhas/Polybar) - A bar
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -151,7 +152,6 @@
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
-- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
@@ -220,6 +220,7 @@
 
 ## Elixir 
 
+- [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) - Template project for Advent of Code in Elixir.
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
 - [DockYard-Academy/beta_curriculum](https://github.com/DockYard-Academy/beta_curriculum) - 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
@@ -255,7 +256,6 @@
 ## Fennel 
 
 - [gbaptista/fnx](https://github.com/gbaptista/fnx) - A package manager for the Fennel language.
-- [shaunsingh/nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 - [iagoleal/doctor.nvim](https://github.com/iagoleal/doctor.nvim) - Emacs greatest feature, now also in neovim!
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
 - [bakpakin/Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
@@ -496,7 +496,7 @@
 - [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [Hexworks/zircon](https://github.com/Hexworks/zircon) - Zircon is an extensible and user-friendly, multiplatform tile engine.
-- [waifu-motivator/waifu-motivator-plugin](https://github.com/waifu-motivator/waifu-motivator-plugin) - OSS Waifu Motivator Plugin for Jetbrains IDEs to help boost your motivation while coding!
+- [waifu-motivator/waifu-motivator-plugin](https://github.com/waifu-motivator/waifu-motivator-plugin) - OSS Waifu Motivator Plugin for JetBrains IDEs to help boost your motivation while coding!
 - [abertschi/ad-free](https://github.com/abertschi/ad-free) - A modularized audio ad blocker for Android
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
@@ -518,6 +518,7 @@
 - [gbaptista/supernova](https://github.com/gbaptista/supernova) - Terminal string styling. Put some color in your console! Support for Fennel, Lua, and Shell.
 - [TheRoboZ/picolove](https://github.com/TheRoboZ/picolove) - Pico-8 Reimplementation in Love2D
 - [lunarmodules/Penlight](https://github.com/lunarmodules/Penlight) - A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  M
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [26F-Studio/Emmy-love-api](https://github.com/26F-Studio/Emmy-love-api) - LÖVE2D API
 - [tesselode/cartographer](https://github.com/tesselode/cartographer) - Simple Tiled map loading for LÖVE.
 - [flamendless/Slab](https://github.com/flamendless/Slab) - An immediate mode GUI for the Love2D framework.
@@ -568,6 +569,7 @@
 
 ## Others 
 
+- [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
@@ -577,6 +579,7 @@
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [stefandevai/awesome-tic-80](https://github.com/stefandevai/awesome-tic-80) - A curated list of awesome TIC-80 tutorials, resources and useful links
 - [arnog/tecendil-js](https://github.com/arnog/tecendil-js) - Tengwar mode files and localization for Tecendil
+- [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [SiliconStudio/xenko](https://github.com/SiliconStudio/xenko) - Old repo for Xenko Game Engine. Please use https://github.com/xenko3d/xenko instead.
@@ -873,7 +876,7 @@
 
 - [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
 - [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
-- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Library for easily making cross-platform native GUIs
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase for native UI on Windows, Linux and Web
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
