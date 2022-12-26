@@ -238,7 +238,7 @@
 - [oestrich/kalevala](https://github.com/oestrich/kalevala) - A world builder's toolkit in Elixir
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [ndreynolds/ratatouille](https://github.com/ndreynolds/ratatouille) - A TUI (terminal UI) kit for Elixir
-- [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+- [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 
 ## Emacs Lisp 
 
@@ -389,6 +389,8 @@
 
 ## Java 
 
+- [ReplayMod/ReplayStudio](https://github.com/ReplayMod/ReplayStudio) - Library for handling Minecraft Replay Files (.mcpr files)
+- [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
@@ -430,6 +432,7 @@
 - [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+- [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [retrogradeorbit/bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites
 - [shenzhongkang/React-Advanced-Search](https://github.com/shenzhongkang/React-Advanced-Search) - React Advanced-Search Component. [高级搜索 | 联合搜索 | 多条件搜索]
 - [arnog/tecendil-backend](https://github.com/arnog/tecendil-backend) - Tengwar web app
@@ -437,7 +440,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [canove/whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
 - [PMudra/gatsby-source-local-git](https://github.com/PMudra/gatsby-source-local-git) - Gatsby source plugin which sources data from your local git repository
@@ -511,7 +513,7 @@
 
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [r0nk/picolove-gym](https://github.com/r0nk/picolove-gym) - openai gym interface to pico8
 - [CapsAdmin/goluwa](https://github.com/CapsAdmin/goluwa) - game engine and framework written in luajit
 - [codehz/nelua-lsp](https://github.com/codehz/nelua-lsp) - Experimenting creating a minimal LSP for Nelua to be used for tooling in text editors
@@ -581,7 +583,6 @@
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
-- [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
 - [stefandevai/awesome-tic-80](https://github.com/stefandevai/awesome-tic-80) - A curated list of awesome TIC-80 tutorials, resources and useful links
 - [arnog/tecendil-js](https://github.com/arnog/tecendil-js) - Tengwar mode files and localization for Tecendil
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
@@ -647,6 +648,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) - 📘 Crystal language doc generator for https://github.com/mkdocstrings/mkdocstrings
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [karlicoss/orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [juanpagfe/cash](https://github.com/juanpagfe/cash) - Foreign exchange converter
@@ -834,6 +836,7 @@
 
 ## TypeScript 
 
+- [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [chetachiezikeuzor/Pixr-Plugin](https://github.com/chetachiezikeuzor/Pixr-Plugin) - An Obsidian.md plugin that brings Unsplash, the largest open collection of high-quality photos, into Obsidian for a better image-use workflow 🌄.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -882,7 +885,7 @@
 
 - [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
 - [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
-- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase for native UI on Windows, Linux and Web
+- [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
