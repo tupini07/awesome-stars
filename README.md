@@ -182,7 +182,7 @@
 - [CmdrDats/igoki](https://github.com/CmdrDats/igoki) - Clojure Go Kifu recorder and OGS player
 - [felipereigosa/mock-mechanics](https://github.com/felipereigosa/mock-mechanics) - Mechanical/visual programming language
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning sub-processes
 - [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
@@ -389,6 +389,7 @@
 
 ## Java 
 
+- [mirkosertic/Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
 - [ReplayMod/ReplayStudio](https://github.com/ReplayMod/ReplayStudio) - Library for handling Minecraft Replay Files (.mcpr files)
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 - [Aizistral-Studios/No-Chat-Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) - Disable Player Chat Reporting and make user messages untrackable.
@@ -859,7 +860,7 @@
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [algolia/instantsearch.js](https://github.com/algolia/instantsearch.js) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## V 
