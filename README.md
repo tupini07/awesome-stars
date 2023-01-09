@@ -179,6 +179,7 @@
 
 ## Clojure 
 
+- [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [CmdrDats/igoki](https://github.com/CmdrDats/igoki) - Clojure Go Kifu recorder and OGS player
 - [felipereigosa/mock-mechanics](https://github.com/felipereigosa/mock-mechanics) - Mechanical/visual programming language
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
@@ -274,7 +275,7 @@
 ## Go 
 
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - **ON HOLIDAY UNTIL JAN 2023 -- REPO IS READ ONLY UNTIL THEN** Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
@@ -500,6 +501,7 @@
 
 ## Kotlin 
 
+- [intellij-v/intellij-v](https://github.com/intellij-v/intellij-v) - A plugin that adds V language support to JetBrains IDEs
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
@@ -731,7 +733,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rust-adventure/2d-platformer-sandbox-youtube-series](https://github.com/rust-adventure/2d-platformer-sandbox-youtube-series) - A series of videos exploring 2d platformer creation with Bevy ECS
 - [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine
-- [kurbos/bevy-shell-template](https://github.com/kurbos/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [rustgameexperts/bevy-shell-template](https://github.com/rustgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
