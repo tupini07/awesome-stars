@@ -69,6 +69,7 @@
 
 ## C 
 
+- [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
 - [Woflox/intoruins](https://github.com/Woflox/intoruins) - A chaotic roguelike full of orbs
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -99,6 +100,8 @@
 
 ## C# # 
 
+- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
+- [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded) - The Stardew Valley Expanded mod for Stardew Valley.
 - [BenMakesGames/PlayPlayMini](https://github.com/BenMakesGames/PlayPlayMini) - An opinionated framework for making smallish games with MonoGame.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [FaronBracy/RogueSharp](https://github.com/FaronBracy/RogueSharp) - A .NET Standard class library providing map generation, path-finding, and field-of-view utilities frequently used in roguelikes or 2D tile based games. Inspired by libtcod
@@ -129,6 +132,8 @@
 
 ## C++ 
 
+- [crosire/blink](https://github.com/crosire/blink) - A tool which allows you to edit source code of any MSVC C++ project live at runtime
+- [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [khanhas/Polybar](https://github.com/khanhas/Polybar) - A bar
@@ -179,6 +184,7 @@
 
 ## Clojure 
 
+- [vlaaad/reveal](https://github.com/vlaaad/reveal) - Read Eval Visualize Loop for Clojure
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [CmdrDats/igoki](https://github.com/CmdrDats/igoki) - Clojure Go Kifu recorder and OGS player
 - [felipereigosa/mock-mechanics](https://github.com/felipereigosa/mock-mechanics) - Mechanical/visual programming language
@@ -492,6 +498,8 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
+- [ryanrudes/colabgymrender](https://github.com/ryanrudes/colabgymrender) - A wrapper for rendering OpenAI Gym environments in Google Colab
 - [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [mancinimassimiliano/DeepLearningLab](https://github.com/mancinimassimiliano/DeepLearningLab) - Exercise for the deep learning course
@@ -615,6 +623,7 @@
 
 ## Python 
 
+- [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
@@ -892,7 +901,6 @@
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [nektro/magnolia-desktop](https://github.com/nektro/magnolia-desktop) - A new Linux desktop environment / UI toolkit
 - [luehmann/assemblio](https://github.com/luehmann/assemblio) - 
 - [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig) - Manually tweaked, auto generated raylib bindings for zig. https://github.com/raysan5/raylib
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
