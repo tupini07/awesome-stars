@@ -235,7 +235,7 @@
 - [pedromtavares/moba](https://github.com/pedromtavares/moba) - A turn-based browser RPG built with Phoenix LiveView
 - [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) - Template project for Advent of Code in Elixir.
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
-- [DockYard-Academy/beta_curriculum](https://github.com/DockYard-Academy/beta_curriculum) - 
+- [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [bonfire-networks/activity_pub](https://github.com/bonfire-networks/activity_pub) - Modular ActivityPub library in Elixir
 - [elixir-nx/nx](https://github.com/elixir-nx/nx) - Multi-dimensional arrays (tensors) and numerical definitions for Elixir
@@ -498,6 +498,7 @@
 
 ## Jupyter Notebook 
 
+- [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [ryanrudes/colabgymrender](https://github.com/ryanrudes/colabgymrender) - A wrapper for rendering OpenAI Gym environments in Google Colab
 - [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
@@ -623,6 +624,7 @@
 
 ## Python 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -742,7 +744,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rust-adventure/2d-platformer-sandbox-youtube-series](https://github.com/rust-adventure/2d-platformer-sandbox-youtube-series) - A series of videos exploring 2d platformer creation with Bevy ECS
 - [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine
-- [rustgameexperts/bevy-shell-template](https://github.com/rustgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [vectorgameexperts/bevy-shell-template](https://github.com/vectorgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
@@ -826,6 +828,7 @@
 
 ## Shell 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
 - [NickTomlin/rust-rsay](https://github.com/NickTomlin/rust-rsay) - It's cowsay... in Rust
@@ -848,6 +851,8 @@
 
 ## TypeScript 
 
+- [anselmwang/obsidian-key-sequence-shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) - Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [chetachiezikeuzor/Pixr-Plugin](https://github.com/chetachiezikeuzor/Pixr-Plugin) - An Obsidian.md plugin that brings Unsplash, the largest open collection of high-quality photos, into Obsidian for a better image-use workflow 🌄.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
