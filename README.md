@@ -132,6 +132,7 @@
 
 ## C++ 
 
+- [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Scalable graph based indices for approximate nearest neighbor search
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [crosire/blink](https://github.com/crosire/blink) - A tool which allows you to edit source code of any MSVC C++ project live at runtime
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -280,6 +281,7 @@
 
 ## Go 
 
+- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -626,6 +628,7 @@
 
 ## Python 
 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -724,6 +727,7 @@
 
 ## Rust 
 
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust &lt;-&gt; Python bindings
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -765,7 +769,7 @@
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [LIKO-12/rust-rewrite](https://github.com/LIKO-12/rust-rewrite) - A programming environment that aims to help people learn how to program in JavaScript, while giving them a tour on how old computers and their limitations used to be.
