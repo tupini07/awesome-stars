@@ -286,7 +286,7 @@
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
@@ -418,6 +418,8 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
+- [upsided/Upsided-OGS-Themes](https://github.com/upsided/Upsided-OGS-Themes) - TamperMonkey themes for online-go.com
 - [Absulit/points](https://github.com/Absulit/points) - A Generative Art library made in WebGPU
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [SilenceLeo/snowb-bmf](https://github.com/SilenceLeo/snowb-bmf) - Bitmap Font Generator Online
@@ -592,6 +594,7 @@
 
 ## Others 
 
+- [gligen/GLIGEN](https://github.com/gligen/GLIGEN) - Open-Set Grounded Text-to-Image Generation
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
@@ -628,6 +631,7 @@
 
 ## Python 
 
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
