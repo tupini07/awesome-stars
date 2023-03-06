@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AutoHotkey](#autohotkey)
 - [Bicep](#bicep)
 - [Brainfuck](#brainfuck)
 - [C](#c)
@@ -59,6 +60,10 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
+## AutoHotkey 
+
+- [ETBCOR/nasin-nanpa](https://github.com/ETBCOR/nasin-nanpa) - nasin sitelen tan anpa nanpa
+
 ## Bicep 
 
 - [Azure/bicep](https://github.com/Azure/bicep) - Bicep is a declarative language for describing and deploying Azure resources
@@ -69,6 +74,7 @@
 
 ## C 
 
+- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
 - [Woflox/intoruins](https://github.com/Woflox/intoruins) - A chaotic roguelike full of orbs
@@ -100,6 +106,7 @@
 
 ## C# # 
 
+- [MonoGame/MonoGame.WebDemo](https://github.com/MonoGame/MonoGame.WebDemo) - The sample code and latest build of the live MonoGame web demo.
 - [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
 - [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded) - The Stardew Valley Expanded mod for Stardew Valley.
 - [BenMakesGames/PlayPlayMini](https://github.com/BenMakesGames/PlayPlayMini) - An opinionated framework for making smallish games with MonoGame.
@@ -282,6 +289,7 @@
 
 ## Go 
 
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang with Zero dependencies
@@ -305,7 +313,7 @@
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/tetra3d](https://github.com/SolarLune/tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebitengine.
@@ -401,6 +409,7 @@
 
 ## Java 
 
+- [timeopochin/tokiponakeyboard](https://github.com/timeopochin/tokiponakeyboard) - 
 - [mirkosertic/Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
 - [ReplayMod/ReplayStudio](https://github.com/ReplayMod/ReplayStudio) - Library for handling Minecraft Replay Files (.mcpr files)
 - [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
@@ -420,6 +429,7 @@
 
 ## JavaScript 
 
+- [olafjanssen/sitelen-sitelen-renderer](https://github.com/olafjanssen/sitelen-sitelen-renderer) - JavaScript library to turn Toki Pona text into the Sitelen Sitelen or Sitelen Suwi non-linear writing style.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
 - [upsided/Upsided-OGS-Themes](https://github.com/upsided/Upsided-OGS-Themes) - TamperMonkey themes for online-go.com
 - [Absulit/points](https://github.com/Absulit/points) - A Generative Art library made in WebGPU
@@ -432,7 +442,6 @@
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Larkenx/Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
-- [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide
 - [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
 - [neagle/gokibitz](https://github.com/neagle/gokibitz) - Move-by-move comments on go games.
 - [rooklift/ogatak](https://github.com/rooklift/ogatak) - KataGo analysis GUI and SGF editor
@@ -596,10 +605,10 @@
 ## Others 
 
 - [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
-- [gligen/GLIGEN](https://github.com/gligen/GLIGEN) - Open-Set Grounded Text-to-Image Generation
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
+- [ikrima/gamedevguide](https://github.com/ikrima/gamedevguide) - Game Development & Unreal Engine Programming Guide
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
@@ -633,6 +642,9 @@
 
 ## Python 
 
+- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
+- [gligen/GLIGEN](https://github.com/gligen/GLIGEN) - Open-Set Grounded Text-to-Image Generation
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.
@@ -733,6 +745,7 @@
 
 ## Rust 
 
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [file-acomplaint/kakikun](https://github.com/file-acomplaint/kakikun) - A paint and ASCII art application for the terminal.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -782,7 +795,6 @@
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [LIKO-12/rust-rewrite](https://github.com/LIKO-12/rust-rewrite) - A programming environment that aims to help people learn how to program in JavaScript, while giving them a tour on how old computers and their limitations used to be.
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
@@ -894,7 +906,7 @@
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## V 
