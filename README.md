@@ -74,6 +74,7 @@
 
 ## C 
 
+- [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
@@ -290,6 +291,7 @@
 
 ## Go 
 
+- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in Go that is compiler to C++.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -310,7 +312,7 @@
 - [SolarLune/dngn](https://github.com/SolarLune/dngn) - A Golang library for random map generation for games.
 - [SolarLune/egpbc](https://github.com/SolarLune/egpbc) - egpbc is a gamepad constant library for Ebitengine games.
 - [lvank/termsuji](https://github.com/lvank/termsuji) - termsuji is a limited application interacting with online-go.com to play Go in the terminal.
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -730,6 +732,7 @@
 
 ## QML 
 
+- [jgadsden/tin-whistle-tablature](https://github.com/jgadsden/tin-whistle-tablature) - MuseScore plugin to add tablature / finger diagrams to a tin whistle staff in a score
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## Racket 
