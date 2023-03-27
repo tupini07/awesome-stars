@@ -141,7 +141,7 @@
 ## C++ 
 
 - [andreer/PotatoP](https://github.com/andreer/PotatoP) - 
-- [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Scalable graph based indices for approximate nearest neighbor search
+- [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [crosire/blink](https://github.com/crosire/blink) - A tool which allows you to edit source code of any MSVC C++ project live at runtime
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -259,6 +259,7 @@
 
 ## Emacs Lisp 
 
+- [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
 - [emacsmirror/fennel-mode](https://github.com/emacsmirror/fennel-mode) - A major-mode for editing Fennel code
 - [Malabarba/beacon](https://github.com/Malabarba/beacon) - A light that follows your cursor around so you don't lose it!
@@ -543,6 +544,8 @@
 
 ## Lua 
 
+- [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
@@ -607,6 +610,7 @@
 
 ## Others 
 
+- [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
@@ -645,6 +649,7 @@
 
 ## Python 
 
+- [microsoft/X-Decoder](https://github.com/microsoft/X-Decoder) - [CVPR 2023] Official Implementation of X-Decoder for generalized decoding for pixel, image and language
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [gligen/GLIGEN](https://github.com/gligen/GLIGEN) - Open-Set Grounded Text-to-Image Generation
@@ -653,11 +658,12 @@
 - [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
 - [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists
 - [mouse-reeve/placevalue_ascii](https://github.com/mouse-reeve/placevalue_ascii) - Create integer grids of binary place values for a function
@@ -749,6 +755,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [file-acomplaint/kakikun](https://github.com/file-acomplaint/kakikun) - A paint and ASCII art application for the terminal.
@@ -887,7 +894,6 @@
 
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
 - [anselmwang/obsidian-key-sequence-shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) - Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember.
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — easy-to-use and performant open-source ML experiment tracker.
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [chetachiezikeuzor/Pixr-Plugin](https://github.com/chetachiezikeuzor/Pixr-Plugin) - An Obsidian.md plugin that brings Unsplash, the largest open collection of high-quality photos, into Obsidian for a better image-use workflow 🌄.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
