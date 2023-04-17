@@ -75,7 +75,7 @@
 ## C 
 
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
-- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - Yaksha Programming Language (WIP)
+- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
@@ -197,6 +197,7 @@
 
 ## Clojure 
 
+- [maitria/avi](https://github.com/maitria/avi) - a lively vi
 - [vlaaad/reveal](https://github.com/vlaaad/reveal) - Read Eval Visualize Loop for Clojure
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [CmdrDats/igoki](https://github.com/CmdrDats/igoki) - Clojure Go Kifu recorder and OGS player
@@ -283,6 +284,8 @@
 
 ## Fennel 
 
+- [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
+- [Olical/magic-kit](https://github.com/Olical/magic-kit) - A starter kit for Conjure, Aniseed and Neovim
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
 - [gbaptista/fnx](https://github.com/gbaptista/fnx) - A package manager for the Fennel language.
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -296,6 +299,7 @@
 
 ## Go 
 
+- [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in Go that is compiler to C++.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
@@ -303,7 +307,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang with Zero dependencies
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (On holiday until end of April, see you soon!)
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -377,7 +381,6 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
-- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [gridcoin-community/Gridcoin-Research](https://github.com/gridcoin-community/Gridcoin-Research) - Gridcoin-Research
@@ -452,7 +455,6 @@
 - [kriskowal/peruacru](https://github.com/kriskowal/peruacru) - Escape from Peruácru Island
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Larkenx/Rotten-Soup](https://github.com/Larkenx/Rotten-Soup) - A roguelike built with Vue, Vuetify, Tiled, rot.js, and PixiJS! Playable at https://rottensoup.herokuapp.com/
 - [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
 - [neagle/gokibitz](https://github.com/neagle/gokibitz) - Move-by-move comments on go games.
@@ -600,6 +602,7 @@
 
 ## Nim 
 
+- [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
 - [calebwin/pipelines](https://github.com/calebwin/pipelines) - An experimental programming language for data flow
@@ -658,8 +661,10 @@
 
 ## Python 
 
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
+- [microsoft/greenlands](https://github.com/microsoft/greenlands) - Library to run interactive Reinforcement Learning agents in a Minecraft Server
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/X-Decoder](https://github.com/microsoft/X-Decoder) - [CVPR 2023] Official Implementation of X-Decoder for generalized decoding for pixel, image and language
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
@@ -811,7 +816,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
-- [roc-lang/roc](https://github.com/roc-lang/roc) - Roc's goal is to be a fast, friendly, functional language.
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -904,12 +909,13 @@
 
 ## TypeScript 
 
+- [anselmwang/obsidian-key-sequence-shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) - Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember.
 - [janet-lang/vscode-janet](https://github.com/janet-lang/vscode-janet) - Janet language support for Visual Studio Code
 - [Thorium-Sim/thorium-nova](https://github.com/Thorium-Sim/thorium-nova) - Next-generation Spaceship Controls
-- [anselmwang/obsidian-key-sequence-shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) - Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember.
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [chetachiezikeuzor/Pixr-Plugin](https://github.com/chetachiezikeuzor/Pixr-Plugin) - An Obsidian.md plugin that brings Unsplash, the largest open collection of high-quality photos, into Obsidian for a better image-use workflow 🌄.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
@@ -928,6 +934,7 @@
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
@@ -950,16 +957,16 @@
 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Zig 
 
+- [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 - [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
 - [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
 - [capy-ui/capy](https://github.com/capy-ui/capy) - 💻Build one codebase and get native UI on Windows, Linux and Web
 - [ryupold/raylib.zig](https://github.com/ryupold/raylib.zig) - Idiomatic Zig bindings for raylib utilizing raylib_parser
 - [Hejsil/lemonbar-maker](https://github.com/Hejsil/lemonbar-maker) - 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 - [luehmann/assemblio](https://github.com/luehmann/assemblio) - 
 - [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig) - Manually tweaked, auto generated raylib bindings for zig. https://github.com/raysan5/raylib
 - [hexops/mach](https://github.com/hexops/mach) - Mach is a game engine & graphics toolkit for the future.
