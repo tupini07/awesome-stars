@@ -36,6 +36,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Nim](#nim)
@@ -74,6 +75,7 @@
 
 ## C 
 
+- [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -110,6 +112,7 @@
 
 ## C# # 
 
+- [BenMakesGames/FoV](https://github.com/BenMakesGames/FoV) - A collection of field-of-view/line-of-sight algorithms designed for tile-based games.
 - [MonoGame/MonoGame.WebDemo](https://github.com/MonoGame/MonoGame.WebDemo) - The sample code and latest build of the live MonoGame web demo.
 - [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
 - [FlashShifter/StardewValleyExpanded](https://github.com/FlashShifter/StardewValleyExpanded) - The Stardew Valley Expanded mod for Stardew Valley.
@@ -143,6 +146,9 @@
 
 ## C++ 
 
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
+- [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
+- [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [andreer/PotatoP](https://github.com/andreer/PotatoP) - 
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -197,6 +203,7 @@
 
 ## Clojure 
 
+- [technomancy/leiningen](https://github.com/technomancy/leiningen) - Moved to Codeberg; this is a convenience mirror
 - [maitria/avi](https://github.com/maitria/avi) - a lively vi
 - [vlaaad/reveal](https://github.com/vlaaad/reveal) - Read Eval Visualize Loop for Clojure
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
@@ -225,7 +232,7 @@
 
 ## Crystal 
 
-- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
+- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web
 - [kostya/myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser with css selectors for Crystal language
 - [elbywan/crystalline](https://github.com/elbywan/crystalline) - A Language Server Protocol implementation for Crystal. 🔮
 - [mccallofthewild/markov](https://github.com/mccallofthewild/markov) - ⛓ A Crystal library for building Markov Chains and running Markov Processes.
@@ -299,6 +306,7 @@
 
 ## Go 
 
+- [robert/gamebert](https://github.com/robert/gamebert) - A Game Boy emulator written by Robert
 - [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in Go that is compiler to C++.
@@ -390,6 +398,9 @@
 
 ## Haskell 
 
+- [Anut-py/h-raylib](https://github.com/Anut-py/h-raylib) - Haskell bindings for Raylib
+- [Ashe/Notakto](https://github.com/Ashe/Notakto) - The game of Notakto, made in Haskell with Apecs and Raylib
+- [haskell-webdriver/haskell-webdriver](https://github.com/haskell-webdriver/haskell-webdriver) - A Haskell client for the Selenium WebDriver protocol.
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [serokell/nixfmt](https://github.com/serokell/nixfmt) - A formatter for Nix code
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
@@ -444,6 +455,7 @@
 
 ## JavaScript 
 
+- [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
 - [olafjanssen/sitelen-sitelen-renderer](https://github.com/olafjanssen/sitelen-sitelen-renderer) - JavaScript library to turn Toki Pona text into the Sitelen Sitelen or Sitelen Suwi non-linear writing style.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
 - [upsided/Upsided-OGS-Themes](https://github.com/upsided/Upsided-OGS-Themes) - TamperMonkey themes for online-go.com
@@ -463,7 +475,7 @@
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [caerphoto/whistletab](https://github.com/caerphoto/whistletab) - Tin Whistle tab creator for D-tuned whistles
 - [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server
-- [cljsjs/packages](https://github.com/cljsjs/packages) - Javascript libraries packaged up with Google Closure externs
+- [cljsjs/packages](https://github.com/cljsjs/packages) - DEPRECATED: Javascript libraries packaged up with Google Closure externs
 - [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.4)
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [mathiasbynens/mothereff.in](https://github.com/mathiasbynens/mothereff.in) - Web developer tools
@@ -530,7 +542,7 @@
 
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
-- [ryanrudes/colabgymrender](https://github.com/ryanrudes/colabgymrender) - A wrapper for rendering OpenAI Gym environments in Google Colab
+- [ryanrudes/colabgymrender](https://github.com/ryanrudes/colabgymrender) - Render OpenAI Gym environments in Google Colaboratory
 - [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [mancinimassimiliano/DeepLearningLab](https://github.com/mancinimassimiliano/DeepLearningLab) - Exercise for the deep learning course
@@ -591,6 +603,10 @@
 ## MATLAB 
 
 - [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+
+## Makefile 
+
+- [practicalli/clojure](https://github.com/practicalli/clojure) - Practicalli Clojure REPL Driven Development
 
 ## Markdown 
 
@@ -662,7 +678,7 @@
 ## Python 
 
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
-- [microsoft/greenlands](https://github.com/microsoft/greenlands) - Library to run interactive Reinforcement Learning agents in a Minecraft Server
+- [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/X-Decoder](https://github.com/microsoft/X-Decoder) - [CVPR 2023] Official Implementation of X-Decoder for generalized decoding for pixel, image and language
@@ -857,7 +873,7 @@
 - [timokoesters/nbodysim](https://github.com/timokoesters/nbodysim) - Realtime 3D N-Body-Simulation
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
-- [ralfbiedert/ffsvm-rust](https://github.com/ralfbiedert/ffsvm-rust) - FFSVM stands for "Really Fast Support Vector Machine"
+- [ralfbiedert/ffsvm](https://github.com/ralfbiedert/ffsvm) - FFSVM stands for "Really Fast Support Vector Machine"
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
 - [lotabout/rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
 - [0b01/xprite-editor](https://github.com/0b01/xprite-editor) - Pixel art editor
