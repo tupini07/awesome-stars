@@ -46,6 +46,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
+- [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
 - [Racket](#racket)
@@ -203,6 +204,9 @@
 
 ## Clojure 
 
+- [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy
+- [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation
+- [tonsky/uberdeps](https://github.com/tonsky/uberdeps) - Uberjar builder for deps.edn
 - [bfollington/fxhash-shadowcljs-template](https://github.com/bfollington/fxhash-shadowcljs-template) - quil + shadow-cljs + fxhash generative art
 - [jahfer/clj-activitypub](https://github.com/jahfer/clj-activitypub) - An ActivityPub library for Clojure
 - [noprompt/meander](https://github.com/noprompt/meander) - Tools for transparent data transformation
@@ -292,6 +296,9 @@
 
 ## F# # 
 
+- [aolney/fable-p5-demo](https://github.com/aolney/fable-p5-demo) - A simple Fable application of p5js using foreign interfaces
+- [swlaschin/fsharpforfunandprofit.com](https://github.com/swlaschin/fsharpforfunandprofit.com) - Source for fsharpforfunandprofit.com. For typos, please send a PR or create an issue. Thanks!
+- [bcarruthers/garnet](https://github.com/bcarruthers/garnet) - F# game composition library
 - [SaturnFramework/Saturn](https://github.com/SaturnFramework/Saturn) - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern
 - [ChrisPritchard/FSH](https://github.com/ChrisPritchard/FSH) - F# Shell with integrated F# scripting. Like Bash or Powershell, but better 'cause F#.
 
@@ -325,7 +332,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go. (On holiday until end of April, see you soon!)
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -408,6 +415,7 @@
 
 ## Haskell 
 
+- [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [Anut-py/h-raylib](https://github.com/Anut-py/h-raylib) - Haskell bindings for Raylib
 - [Ashe/Notakto](https://github.com/Ashe/Notakto) - The game of Notakto, made in Haskell with Apecs and Raylib
 - [haskell-webdriver/haskell-webdriver](https://github.com/haskell-webdriver/haskell-webdriver) - A Haskell client for the Selenium WebDriver protocol.
@@ -465,6 +473,7 @@
 
 ## JavaScript 
 
+- [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
 - [olafjanssen/sitelen-sitelen-renderer](https://github.com/olafjanssen/sitelen-sitelen-renderer) - JavaScript library to turn Toki Pona text into the Sitelen Sitelen or Sitelen Suwi non-linear writing style.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
@@ -686,6 +695,10 @@
 - [notisrac/AsepriteWindowsx64Build](https://github.com/notisrac/AsepriteWindowsx64Build) - A docker image for building Aseprite for windows x64
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
+## PureScript 
+
+- [feramhq/Transity](https://github.com/feramhq/Transity) - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line
+
 ## Python 
 
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
@@ -702,7 +715,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, prompt engineering)
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -831,7 +844,7 @@
 - [Lucretiel/autodefault](https://github.com/Lucretiel/autodefault) - Autodefault automatically makes your struct literals fill themselves with `..default()`
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rust-adventure/2d-platformer-sandbox-youtube-series](https://github.com/rust-adventure/2d-platformer-sandbox-youtube-series) - A series of videos exploring 2d platformer creation with Bevy ECS
-- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Concise Reference Book for the Bevy Game Engine
+- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine
 - [vectorgameexperts/bevy-shell-template](https://github.com/vectorgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
