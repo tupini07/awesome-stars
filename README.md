@@ -151,6 +151,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [andreer/PotatoP](https://github.com/andreer/PotatoP) - 
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [crosire/blink](https://github.com/crosire/blink) - A tool which allows you to edit source code of any MSVC C++ project live at runtime
@@ -296,6 +297,7 @@
 
 ## F# # 
 
+- [fsprojects/Argu](https://github.com/fsprojects/Argu) - A declarative CLI argument parser for F#
 - [aolney/fable-p5-demo](https://github.com/aolney/fable-p5-demo) - A simple Fable application of p5js using foreign interfaces
 - [swlaschin/fsharpforfunandprofit.com](https://github.com/swlaschin/fsharpforfunandprofit.com) - Source for fsharpforfunandprofit.com. For typos, please send a PR or create an issue. Thanks!
 - [bcarruthers/garnet](https://github.com/bcarruthers/garnet) - F# game composition library
@@ -352,7 +354,7 @@
 - [Shopify/go-lua](https://github.com/Shopify/go-lua) - A Lua VM in Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/tetra3d](https://github.com/SolarLune/tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebitengine.
@@ -701,9 +703,9 @@
 
 ## Python 
 
+- [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/X-Decoder](https://github.com/microsoft/X-Decoder) - [CVPR 2023] Official Implementation of X-Decoder for generalized decoding for pixel, image and language
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
@@ -742,7 +744,6 @@
 - [emscripten-core/emsdk](https://github.com/emscripten-core/emsdk) - Emscripten SDK
 - [halcy/hellomotoot](https://github.com/halcy/hellomotoot) - PSTN Mastodon Client using Mastodon.py and the Twilio API
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TrippW/HadesBot](https://github.com/TrippW/HadesBot) - A reddit bot that watches the HadesTheGame subreddit and posts helpful hints on what key items and abilities do.
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor) - The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.
@@ -812,6 +813,7 @@
 
 ## Rust 
 
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
