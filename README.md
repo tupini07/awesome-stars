@@ -114,6 +114,9 @@
 
 ## C# # 
 
+- [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+- [ramtinak/InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp) - A complete Private Instagram API for .NET (C#, VB.NET).
 - [BenMakesGames/FoV](https://github.com/BenMakesGames/FoV) - A collection of field-of-view/line-of-sight algorithms designed for tile-based games.
 - [MonoGame/MonoGame.WebDemo](https://github.com/MonoGame/MonoGame.WebDemo) - The sample code and latest build of the live MonoGame web demo.
 - [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
@@ -148,6 +151,8 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
@@ -265,9 +270,11 @@
 - [alexgladd/fortress](https://github.com/alexgladd/fortress) - Fortress is a package of game development utilities for Dart and Flutter apps.
 - [munificent/hauberk](https://github.com/munificent/hauberk) - A web-based roguelike written in Dart.
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Elixir 
 
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [pedromtavares/moba](https://github.com/pedromtavares/moba) - A turn-based browser RPG built with Phoenix LiveView
 - [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) - Template project for Advent of Code in Elixir.
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
@@ -301,6 +308,7 @@
 
 ## F# # 
 
+- [fsprojects/FSharpPlus](https://github.com/fsprojects/FSharpPlus) - Extensions for F#
 - [CaptnCodr/Fli](https://github.com/CaptnCodr/Fli) - Execute CLI commands from your F# code in F# style!
 - [fsprojects/Argu](https://github.com/fsprojects/Argu) - A declarative CLI argument parser for F#
 - [aolney/fable-p5-demo](https://github.com/aolney/fable-p5-demo) - A simple Fable application of p5js using foreign interfaces
@@ -425,6 +433,7 @@
 
 ## Haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [Anut-py/h-raylib](https://github.com/Anut-py/h-raylib) - Haskell bindings for Raylib
 - [Ashe/Notakto](https://github.com/Ashe/Notakto) - The game of Notakto, made in Haskell with Apecs and Raylib
@@ -649,6 +658,7 @@
 
 ## Nim 
 
+- [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
 - [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) - A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
@@ -878,7 +888,6 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
 - [LIKO-12/rust-rewrite](https://github.com/LIKO-12/rust-rewrite) - A programming environment that aims to help people learn how to program in JavaScript, while giving them a tour on how old computers and their limitations used to be.
