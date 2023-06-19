@@ -94,7 +94,6 @@
 - [NetHack/NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 - [greenfork/nimraylib_now](https://github.com/greenfork/nimraylib_now) - The Ultimate Raylib gaming library wrapper for Nim
 - [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
-- [pyrmont/documentarian](https://github.com/pyrmont/documentarian) - A document generation tool for Janet projects
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [greenfork/jzignet](https://github.com/greenfork/jzignet) - Zig library to connect Janet and Zig together
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
@@ -334,6 +333,7 @@
 
 ## Gleam 
 
+- [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid transactional email API
 - [Willyboar/glove](https://github.com/Willyboar/glove) - Gleam Library to generate QBE IR code
 - [nakaixo/nakai](https://github.com/nakaixo/nakai) - An HTML generation library for building web apps with Gleam ✨
 
@@ -467,6 +467,7 @@
 
 - [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
+- [pyrmont/documentarian](https://github.com/pyrmont/documentarian) - A document generation tool for Janet projects
 - [AlecTroemel/junk-drawer](https://github.com/AlecTroemel/junk-drawer) - A collection of random tools for gamedev.
 - [andrewchambers/janet-sh](https://github.com/andrewchambers/janet-sh) - Shorthand shell like functions for janet.
 
@@ -492,6 +493,8 @@
 
 ## JavaScript 
 
+- [benbrown/shuttlecraft](https://github.com/benbrown/shuttlecraft) - a single user activitypub server - join the federation!
+- [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer) - Web based viewer for servers and bots
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
@@ -579,6 +582,8 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
+- [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [ryanrudes/colabgymrender](https://github.com/ryanrudes/colabgymrender) - Render OpenAI Gym environments in Google Colaboratory
@@ -670,6 +675,8 @@
 
 ## OCaml 
 
+- [Gopiandcode/ocamlot](https://github.com/Gopiandcode/ocamlot) - An Activitypub server in OCaml!
+- [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [jaredly/reason-language-server](https://github.com/jaredly/reason-language-server) - A language server for reason, in reason
 
@@ -835,6 +842,7 @@
 
 ## Rust 
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
