@@ -37,6 +37,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -152,7 +153,7 @@
 
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
-- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
@@ -273,6 +274,7 @@
 
 ## Elixir 
 
+- [gleam-lang/mix_gleam](https://github.com/gleam-lang/mix_gleam) - ⚗️ Build Gleam code with mix
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [pedromtavares/moba](https://github.com/pedromtavares/moba) - A turn-based browser RPG built with Phoenix LiveView
 - [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) - Template project for Advent of Code in Elixir.
@@ -333,6 +335,9 @@
 
 ## Gleam 
 
+- [PROMETHIA-27/halo](https://github.com/PROMETHIA-27/halo) - 
+- [dahlia-lib/dahlia-gleam](https://github.com/dahlia-lib/dahlia-gleam) - Dahlia — a simple text formatting package, inspired by the game Minecraft.
+- [PROMETHIA-27/mote](https://github.com/PROMETHIA-27/mote) - 
 - [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid transactional email API
 - [Willyboar/glove](https://github.com/Willyboar/glove) - Gleam Library to generate QBE IR code
 - [nakaixo/nakai](https://github.com/nakaixo/nakai) - An HTML generation library for building web apps with Gleam ✨
@@ -420,6 +425,7 @@
 
 ## HTML 
 
+- [radar/joyofelixir](https://github.com/radar/joyofelixir) - A gentle introduction to the Elixir programming language
 - [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, talks and other digital resources for learning about Buddhism.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -522,7 +528,7 @@
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [mathiasbynens/mothereff.in](https://github.com/mathiasbynens/mothereff.in) - Web developer tools
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
-- [le-doux/bitsy](https://github.com/le-doux/bitsy) - make tiny games, worlds, and stories
+- [le-doux/bitsy](https://github.com/le-doux/bitsy) - a little engine for little games, worlds, and stories
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) - Scoop bucket for the Crystal programming language on Windows
@@ -582,6 +588,7 @@
 
 ## Jupyter Notebook 
 
+- [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
@@ -624,6 +631,7 @@
 - [paulofmandown/rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 - [propfeds/terminal-blues](https://github.com/propfeds/terminal-blues) - A Code Page 437/ASCII tileset for POWDER.
 - [kiedtl/cursed](https://github.com/kiedtl/cursed) - Your worst nightmare
+- [thisismypassport/shrinko8](https://github.com/thisismypassport/shrinko8) - Shrink (minify) Pico-8 carts, as well as other tools (e..g linting, format conversion)
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [gbaptista/supernova](https://github.com/gbaptista/supernova) - Terminal string styling. Put some color in your console! Support for Fennel, Lua, and Shell.
 - [TheRoboZ/picolove](https://github.com/TheRoboZ/picolove) - Pico-8 Reimplementation in Love2D
@@ -633,7 +641,7 @@
 - [flamendless/Slab](https://github.com/flamendless/Slab) - An immediate mode GUI for the Love2D framework.
 - [mikumikudice/leaf](https://github.com/mikumikudice/leaf) - leaf (Love's Extensions And Facilities) is collection of libraries and classes for LÖVE.
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - Use NeoVim as general purpose IDE
-- [HamdyElzonqali/ldtk-love](https://github.com/HamdyElzonqali/ldtk-love) - LDtk loader for LÖVE.
+- [HamdyElzanqali/ldtk-love](https://github.com/HamdyElzanqali/ldtk-love) - LDtk loader for LÖVE.
 - [picolove/picolove](https://github.com/picolove/picolove) - PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM
 - [aquova/pico8](https://github.com/aquova/pico8) - My Pico-8 creations
 - [jesstelford/pecs](https://github.com/jesstelford/pecs) - A PICO-8 Entity Component System (ECS) library
@@ -648,6 +656,11 @@
 ## MATLAB 
 
 - [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+
+## MDX 
+
+- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Makefile 
 
@@ -731,6 +744,8 @@
 
 ## Python 
 
+- [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
@@ -759,7 +774,6 @@
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) - Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
-- [thisismypassport/shrinko8](https://github.com/thisismypassport/shrinko8) - Shrink (minify) Pico-8 carts, as well as other tools (e..g linting, format conversion)
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [iSpellcaster/pico8rle](https://github.com/iSpellcaster/pico8rle) - An simple rle encoder for pic08
@@ -842,6 +856,7 @@
 
 ## Rust 
 
+- [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
@@ -904,7 +919,6 @@
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [Byron/trash-rs](https://github.com/Byron/trash-rs) - A Rust library for moving files to the Recycle Bin
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [aftix/bacon](https://github.com/aftix/bacon) - Scientific Computing in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
@@ -962,6 +976,7 @@
 
 ## Shell 
 
+- [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
