@@ -759,7 +759,7 @@
 - [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
@@ -889,7 +889,7 @@
 - [Nilirad/bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon) - Draw 2D shapes in Bevy
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD and releases for web, Windows, Linux, and macOS
 - [Lucretiel/autodefault](https://github.com/Lucretiel/autodefault) - Autodefault automatically makes your struct literals fill themselves with `..default()`
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
