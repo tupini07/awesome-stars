@@ -83,6 +83,7 @@
 - [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
+- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in C that is compiled to C.
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
@@ -210,6 +211,7 @@
 
 ## Clojure 
 
+- [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [mentat-collective/road-to-reality](https://github.com/mentat-collective/road-to-reality) - The Road to Reality essay and newsletter source. A journey through computational physics, from eval/apply to the Einstein field equations.
@@ -348,7 +350,6 @@
 - [robert/gamebert](https://github.com/robert/gamebert) - A Game Boy emulator written by Robert
 - [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in Go that is compiler to C++.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -665,6 +666,7 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [practicalli/clojure](https://github.com/practicalli/clojure) - Practicalli Clojure REPL Driven Development
 
 ## Markdown 
@@ -856,6 +858,7 @@
 
 ## Rust 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
