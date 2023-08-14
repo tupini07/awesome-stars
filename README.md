@@ -211,6 +211,7 @@
 
 ## Clojure 
 
+- [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
 - [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
@@ -311,6 +312,7 @@
 
 ## F# # 
 
+- [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 - [fsprojects/FSharpPlus](https://github.com/fsprojects/FSharpPlus) - Extensions for F#
 - [CaptnCodr/Fli](https://github.com/CaptnCodr/Fli) - Execute CLI commands from your F# code in F# style!
 - [fsprojects/Argu](https://github.com/fsprojects/Argu) - A declarative CLI argument parser for F#
@@ -385,7 +387,7 @@
 - [SolarLune/ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for LDtk projects written in Golang.
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [bjatkin/golf-engine](https://github.com/bjatkin/golf-engine) - A small fantasy game engine in WASM using GoLang
 - [SolarLune/masterplan](https://github.com/SolarLune/masterplan) - MasterPlan is a project management software / visual idea board software. It attempts to be easy to use, lightweight, and fun.
 - [anaseto/gruid-rltuto](https://github.com/anaseto/gruid-rltuto) - roguelike tutorial in Go using the framework gruid
@@ -480,6 +482,7 @@
 
 ## Java 
 
+- [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [timeopochin/tokiponakeyboard](https://github.com/timeopochin/tokiponakeyboard) - 
 - [mirkosertic/Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
 - [ReplayMod/ReplayStudio](https://github.com/ReplayMod/ReplayStudio) - Library for handling Minecraft Replay Files (.mcpr files)
@@ -488,7 +491,7 @@
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [CGrassin/tinwhistletabs](https://github.com/CGrassin/tinwhistletabs) - Tin whistle tabs: listen and play hundreds of traditional tunes!
-- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
@@ -591,7 +594,7 @@
 ## Jupyter Notebook 
 
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
-- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
@@ -1058,6 +1061,7 @@
 
 ## Zig 
 
+- [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language (in development)
 - [theseyan/bkg](https://github.com/theseyan/bkg) - Package Bun apps into a single executable
 - [axgdev/telezig](https://github.com/axgdev/telezig) - A telegram bot library written in Zig ⚡
 - [ibillingsley/wasm4-gamejam](https://github.com/ibillingsley/wasm4-gamejam) - One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console
