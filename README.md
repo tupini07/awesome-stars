@@ -32,6 +32,7 @@
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -153,6 +154,7 @@
 
 ## C++ 
 
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
@@ -586,6 +588,10 @@
 - [nature-of-code/noc-book](https://github.com/nature-of-code/noc-book) - The Nature of Code book (archived repo, see README for new repo / build system!)
 - [7THStage/idigdoge](https://github.com/7THStage/idigdoge) - 
 
+## Jinja 
+
+- [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
+
 ## Julia 
 
 - [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) - A general-purpose probabilistic programming system with programmable inference
@@ -708,7 +714,6 @@
 
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-- [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 - [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
@@ -1058,7 +1063,7 @@
 ## Vue 
 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Music streaming browser
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
 
 ## Zig 
 
