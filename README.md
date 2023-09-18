@@ -154,13 +154,14 @@
 
 ## C++ 
 
+- [paladin-t/bitty](https://github.com/paladin-t/bitty) - Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [andreer/PotatoP](https://github.com/andreer/PotatoP) - 
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [crosire/blink](https://github.com/crosire/blink) - A tool which allows you to edit source code of any MSVC C++ project live at runtime
@@ -215,7 +216,6 @@
 ## Clojure 
 
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
-- [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [mentat-collective/road-to-reality](https://github.com/mentat-collective/road-to-reality) - The Road to Reality essay and newsletter source. A journey through computational physics, from eval/apply to the Einstein field equations.
@@ -299,6 +299,7 @@
 
 ## Emacs Lisp 
 
+- [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [Kodiologist/Daylight](https://github.com/Kodiologist/Daylight) - Open-notebook science in Org mode
 - [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [minad/org-modern](https://github.com/minad/org-modern) - :unicorn: Modern Org Style
@@ -478,6 +479,7 @@
 
 ## Janet 
 
+- [sogaiu/janet-ref](https://github.com/sogaiu/janet-ref) - Multi-purpose Janet Info Tool
 - [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
 - [pyrmont/documentarian](https://github.com/pyrmont/documentarian) - A document generation tool for Janet projects
@@ -513,7 +515,7 @@
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
 - [olafjanssen/sitelen-sitelen-renderer](https://github.com/olafjanssen/sitelen-sitelen-renderer) - JavaScript library to turn Toki Pona text into the Sitelen Sitelen or Sitelen Suwi non-linear writing style.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman)
 - [upsided/Upsided-OGS-Themes](https://github.com/upsided/Upsided-OGS-Themes) - TamperMonkey themes for online-go.com
 - [Absulit/points](https://github.com/Absulit/points) - A Generative Art library made in WebGPU
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -603,7 +605,6 @@
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
 - [ryanrudes/colabgymrender](https://github.com/ryanrudes/colabgymrender) - Render OpenAI Gym environments in Google Colaboratory
@@ -761,6 +762,7 @@
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/X-Decoder](https://github.com/microsoft/X-Decoder) - [CVPR 2023] Official Implementation of X-Decoder for generalized decoding for pixel, image and language
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
@@ -859,6 +861,8 @@
 
 ## Ruby 
 
+- [seattlerb/debride](https://github.com/seattlerb/debride) - Analyze code for potentially uncalled / dead methods, now with auto-removal.
+- [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage)
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
