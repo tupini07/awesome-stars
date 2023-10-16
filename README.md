@@ -216,6 +216,7 @@
 
 ## Clojure 
 
+- [borkdude/carve](https://github.com/borkdude/carve) - Remove unused Clojure vars
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
 - [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
@@ -513,6 +514,8 @@
 
 ## JavaScript 
 
+- [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [benbrown/shuttlecraft](https://github.com/benbrown/shuttlecraft) - a single user activitypub server - join the federation!
 - [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer) - Web based viewer for servers and bots
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
@@ -554,6 +557,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [canove/whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
 - [PMudra/gatsby-source-local-git](https://github.com/PMudra/gatsby-source-local-git) - Gatsby source plugin which sources data from your local git repository
@@ -764,8 +768,9 @@
 
 ## Python 
 
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
@@ -779,12 +784,12 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use modular observability for AI Systems. Extensible, scalable and modular.
+- [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists
 - [mouse-reeve/placevalue_ascii](https://github.com/mouse-reeve/placevalue_ascii) - Create integer grids of binary place values for a function
@@ -816,7 +821,6 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) - 📘 Crystal language doc generator for https://github.com/mkdocstrings/mkdocstrings
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [karlicoss/orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [juanpagfe/cash](https://github.com/juanpagfe/cash) - Foreign exchange converter
@@ -1025,6 +1029,8 @@
 
 ## TypeScript 
 
+- [QWxleA/logseq-interstitial-heading-plugin](https://github.com/QWxleA/logseq-interstitial-heading-plugin) - Insert an interstitial heading in your daily note
+- [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
 - [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [anselmwang/obsidian-key-sequence-shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) - Execute obsidian commands with short key sequences. For example, 'tp' for 'Toggle Preview' and 'tb' for 'Toggle Sidebar'. Easier to remember.
