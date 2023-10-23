@@ -218,7 +218,7 @@
 
 - [borkdude/carve](https://github.com/borkdude/carve) - Remove unused Clojure vars
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
-- [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
+- [flow-storm/flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [mentat-collective/emmy](https://github.com/mentat-collective/emmy) - The Emmy Computer Algebra System.
 - [mentat-collective/road-to-reality](https://github.com/mentat-collective/road-to-reality) - The Road to Reality essay and newsletter source. A journey through computational physics, from eval/apply to the Einstein field equations.
 - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy
@@ -354,6 +354,7 @@
 
 ## Go 
 
+- [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [EdmondTabaku/mojo-gojo](https://github.com/EdmondTabaku/mojo-gojo) - 
 - [SolarLune/messages](https://github.com/SolarLune/messages) - Messages is a golang library tuned for gamedev for subscribing to and passing messages between relevant objects.
 - [sinisterstuf/dynamo](https://github.com/sinisterstuf/dynamo) - Escape the maze by dynamo torchlight! 🔦 Game submission for the 2021 Nokia 3310 Jam.
@@ -484,6 +485,8 @@
 
 ## Janet 
 
+- [pyrmont/jeep](https://github.com/pyrmont/jeep) - A Janet project management tool
+- [sogaiu/janet-please](https://github.com/sogaiu/janet-please) - 
 - [sogaiu/janet-ref](https://github.com/sogaiu/janet-ref) - Multi-purpose Janet Info Tool
 - [janet-lang/jpm](https://github.com/janet-lang/jpm) - Janet Project Manager
 - [bakpakin/mendoza](https://github.com/bakpakin/mendoza) - A Static Site Generator
@@ -611,6 +614,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -1080,7 +1084,7 @@
 ## Vue 
 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced music streaming client
+- [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 
 ## Zig 
 
