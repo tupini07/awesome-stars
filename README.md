@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [paladin-t/bitty](https://github.com/paladin-t/bitty) - Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -219,6 +220,7 @@
 
 ## Clojure 
 
+- [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library
 - [borkdude/carve](https://github.com/borkdude/carve) - Remove unused Clojure vars
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
 - [flow-storm/flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
@@ -275,6 +277,7 @@
 
 ## Dart 
 
+- [Steellow/zen](https://github.com/Steellow/zen) - Minimal meditation app
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [robertodoering/harpy](https://github.com/robertodoering/harpy) - a Twitter app built with Flutter 🦅
 - [isar/isar](https://github.com/isar/isar) - Extremely fast, easy to use, and fully async NoSQL database for Flutter
@@ -348,6 +351,8 @@
 
 ## Gleam 
 
+- [gleam-lang/otp](https://github.com/gleam-lang/otp) - 📫 Fault tolerant multicore programs with actors
+- [lpil/wisp](https://github.com/lpil/wisp) - 🧚 A practical web framework for Gleam
 - [PROMETHIA-27/halo](https://github.com/PROMETHIA-27/halo) - 
 - [dahlia-lib/dahlia-gleam](https://github.com/dahlia-lib/dahlia-gleam) - Dahlia — a simple text formatting package, inspired by the game Minecraft.
 - [PROMETHIA-27/mote](https://github.com/PROMETHIA-27/mote) - 
@@ -512,7 +517,7 @@
 - [CGrassin/tinwhistletabs](https://github.com/CGrassin/tinwhistletabs) - Tin whistle tabs: listen and play hundreds of traditional tunes!
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [guardianproject/orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 - [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
@@ -777,6 +782,8 @@
 
 ## Python 
 
+- [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+- [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
