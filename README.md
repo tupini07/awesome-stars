@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [NoelFB/Foster](https://github.com/NoelFB/Foster) - A small C# game framework
 - [BenMakesGames/TinyUnixTimestamp](https://github.com/BenMakesGames/TinyUnixTimestamp) - Adds a system tray icon which can be clicked to copy the current unix timestamp to your clipboard.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [isadorasophia/gum](https://github.com/isadorasophia/gum) - A dialogue narrative scripting language that integrates with Murder Engine.
@@ -220,6 +221,7 @@
 
 ## Clojure 
 
+- [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
 - [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library
 - [borkdude/carve](https://github.com/borkdude/carve) - Remove unused Clojure vars
 - [Tensegritics/ClojureDart](https://github.com/Tensegritics/ClojureDart) - Clojure dialect for Flutter and Dart
@@ -362,7 +364,8 @@
 
 ## Go 
 
-- [SolarLune/routine](https://github.com/SolarLune/routine) - 
+- [quasilyte/gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage for games
+- [SolarLune/routine](https://github.com/SolarLune/routine) - Routine is a Go package for running routines, primarily for game development.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [EdmondTabaku/mojo-gojo](https://github.com/EdmondTabaku/mojo-gojo) - 
@@ -570,7 +573,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [inkle/inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [canove/whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
 - [PMudra/gatsby-source-local-git](https://github.com/PMudra/gatsby-source-local-git) - Gatsby source plugin which sources data from your local git repository
@@ -580,7 +582,6 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [davidagraf/doi2bib2](https://github.com/davidagraf/doi2bib2) - 
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [maxlath/wikibase-cli](https://github.com/maxlath/wikibase-cli) - read and edit a Wikibase instance from the command line
@@ -837,6 +838,7 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [mkdocstrings/crystal](https://github.com/mkdocstrings/crystal) - 📘 Crystal language doc generator for https://github.com/mkdocstrings/mkdocstrings
 - [erezsh/Preql](https://github.com/erezsh/Preql) - An interpreted relational query language that compiles to SQL.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [karlicoss/orgparse](https://github.com/karlicoss/orgparse) - Python module for reading Emacs org-mode files
 - [juanpagfe/cash](https://github.com/juanpagfe/cash) - Foreign exchange converter
@@ -846,6 +848,7 @@
 - [Pebaz/nimporter](https://github.com/Pebaz/nimporter) - Compile Nim Extensions for Python On Import!
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [flennerhag/mlens](https://github.com/flennerhag/mlens) - ML-Ensemble – high performance ensemble learning
 - [python-bonobo/bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load for Python 3.5+
 - [Xonshiz/comic-dl](https://github.com/Xonshiz/comic-dl) - Comic-dl is a command line tool to download manga and comics from various comic and manga sites. Supported sites : readcomiconline.to, mangafox.me, comic naver and many more.
