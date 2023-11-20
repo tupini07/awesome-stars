@@ -28,6 +28,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [Hy](#hy)
 - [Idris](#idris)
 - [Janet](#janet)
 - [Java](#java)
@@ -116,6 +117,7 @@
 
 ## C# # 
 
+- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [NoelFB/Foster](https://github.com/NoelFB/Foster) - A small C# game framework
 - [BenMakesGames/TinyUnixTimestamp](https://github.com/BenMakesGames/TinyUnixTimestamp) - Adds a system tray icon which can be clicked to copy the current unix timestamp to your clipboard.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
@@ -209,7 +211,6 @@
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [HackerPoet/MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) - A Fractal Physics Game
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -290,6 +291,7 @@
 
 ## Elixir 
 
+- [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
 - [gleam-lang/mix_gleam](https://github.com/gleam-lang/mix_gleam) - ⚗️ Build Gleam code with mix
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [pedromtavares/moba](https://github.com/pedromtavares/moba) - A turn-based browser RPG built with Phoenix LiveView
@@ -354,7 +356,7 @@
 ## Gleam 
 
 - [gleam-lang/otp](https://github.com/gleam-lang/otp) - 📫 Fault tolerant multicore programs with actors
-- [lpil/wisp](https://github.com/lpil/wisp) - 🧚 A practical web framework for Gleam
+- [gleam-wisp/wisp](https://github.com/gleam-wisp/wisp) - 🧚 A practical web framework for Gleam
 - [PROMETHIA-27/halo](https://github.com/PROMETHIA-27/halo) - 
 - [dahlia-lib/dahlia-gleam](https://github.com/dahlia-lib/dahlia-gleam) - Dahlia — a simple text formatting package, inspired by the game Minecraft.
 - [PROMETHIA-27/mote](https://github.com/PROMETHIA-27/mote) - 
@@ -364,9 +366,10 @@
 
 ## Go 
 
+- [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
 - [quasilyte/gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage for games
 - [SolarLune/routine](https://github.com/SolarLune/routine) - Routine is a Go package for running routines, primarily for game development.
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [EdmondTabaku/mojo-gojo](https://github.com/EdmondTabaku/mojo-gojo) - 
 - [SolarLune/messages](https://github.com/SolarLune/messages) - Messages is a golang library tuned for gamedev for subscribing to and passing messages between relevant objects.
@@ -491,6 +494,10 @@
 - [AustinEast/heaps-aseprite](https://github.com/AustinEast/heaps-aseprite) - An Aseprite File Parser for Heaps
 - [YAL-Haxe/hxpico8](https://github.com/YAL-Haxe/hxpico8) - Experimental Lua target for Haxe
 - [deepnight/gameBase](https://github.com/deepnight/gameBase) - Base structure for my games, using Heaps framework and Haxe language.
+
+## Hy 
+
+- [hylang/simalq](https://github.com/hylang/simalq) - Infinitesimal Quest 2 + ε: A turn-based puzzling dungeon crawler
 
 ## Idris 
 
@@ -810,7 +817,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [Anthchirp/mastodon-defederate](https://github.com/Anthchirp/mastodon-defederate) - Aiding small Mastodon instance admins by tracking larger instances' server blocklists
 - [mouse-reeve/placevalue_ascii](https://github.com/mouse-reeve/placevalue_ascii) - Create integer grids of binary place values for a function
-- [denBot/yasb](https://github.com/denBot/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
+- [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -1007,6 +1014,7 @@
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
 ## Scala 
 
@@ -1022,6 +1030,7 @@
 
 ## Shell 
 
+- [gleam-community/gleam-install](https://github.com/gleam-community/gleam-install) - An installer for Gleam on Linux and macOS
 - [catppuccin/misskey](https://github.com/catppuccin/misskey) - 🍮 Soothing pastel theme for Misskey
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
