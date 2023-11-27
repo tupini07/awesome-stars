@@ -82,7 +82,7 @@
 
 - [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
-- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP)
+- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP) Tasks
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
 - [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in C that is compiled to C.
@@ -355,6 +355,7 @@
 
 ## Gleam 
 
+- [massivefermion/radish](https://github.com/massivefermion/radish) - A Redis client for Gleam
 - [gleam-lang/otp](https://github.com/gleam-lang/otp) - 📫 Fault tolerant multicore programs with actors
 - [gleam-wisp/wisp](https://github.com/gleam-wisp/wisp) - 🧚 A practical web framework for Gleam
 - [PROMETHIA-27/halo](https://github.com/PROMETHIA-27/halo) - 
@@ -544,7 +545,7 @@
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [olafjanssen/sitelen-sitelen-renderer](https://github.com/olafjanssen/sitelen-sitelen-renderer) - JavaScript library to turn Toki Pona text into the Sitelen Sitelen or Sitelen Suwi non-linear writing style.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [upsided/Upsided-OGS-Themes](https://github.com/upsided/Upsided-OGS-Themes) - TamperMonkey themes for online-go.com
@@ -649,7 +650,6 @@
 
 ## Kotlin 
 
-- [intellij-v/intellij-v](https://github.com/intellij-v/intellij-v) - A plugin that adds V language support to JetBrains IDEs
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
@@ -907,6 +907,7 @@
 
 ## Rust 
 
+- [lukewilliamboswell/roc-tui](https://github.com/lukewilliamboswell/roc-tui) - An experimental TUI platform for Roc
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1030,6 +1031,7 @@
 
 ## Shell 
 
+- [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc and other things
 - [gleam-community/gleam-install](https://github.com/gleam-community/gleam-install) - An installer for Gleam on Linux and macOS
 - [catppuccin/misskey](https://github.com/catppuccin/misskey) - 🍮 Soothing pastel theme for Misskey
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
@@ -1057,6 +1059,7 @@
 
 ## TypeScript 
 
+- [ivan-demchenko/roc-vscode-unofficial](https://github.com/ivan-demchenko/roc-vscode-unofficial) - An experimental VSCode extension for Roc language
 - [QWxleA/logseq-interstitial-heading-plugin](https://github.com/QWxleA/logseq-interstitial-heading-plugin) - Insert an interstitial heading in your daily note
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
 - [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
