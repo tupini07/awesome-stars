@@ -82,7 +82,7 @@
 
 - [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
-- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP) Tasks
+- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP) Tasks --- https://trello.com/b/f25EcuX6/%F0%9F%91%BF-yaksha-tasks
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
 - [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in C that is compiled to C.
@@ -161,6 +161,7 @@
 
 ## C++ 
 
+- [lovebrew/lovepotion](https://github.com/lovebrew/lovepotion) - LÖVE for Nintendo Homebrew
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [paladin-t/bitty](https://github.com/paladin-t/bitty) - Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
@@ -372,6 +373,7 @@
 
 ## Go 
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
 - [quasilyte/gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage for games
 - [SolarLune/routine](https://github.com/SolarLune/routine) - Routine is a Go package for running routines, primarily for game development.
@@ -396,7 +398,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
-- [MicheleFiladelfia/mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer 🌌
+- [MicheleFiladelfia/mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform fractals explorer 🌌
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -460,6 +462,7 @@
 
 ## HTML 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [roytang/blog](https://github.com/roytang/blog) - Source for my blog!
 - [radar/joyofelixir](https://github.com/radar/joyofelixir) - A gentle introduction to the Elixir programming language
@@ -905,6 +908,7 @@
 
 ## Ruby 
 
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [seattlerb/debride](https://github.com/seattlerb/debride) - Analyze code for potentially uncalled / dead methods, now with auto-removal.
 - [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage)
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
@@ -984,7 +988,7 @@
 - [graphql-rust/juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust
 - [aftix/bacon](https://github.com/aftix/bacon) - Scientific Computing in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
 - [rant-lang/rant](https://github.com/rant-lang/rant) - Rant - The templating language for procedural generation.
@@ -994,7 +998,7 @@
 - [vleue/bevy_easings](https://github.com/vleue/bevy_easings) - Bevy plugin for easings and simple animations
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story engine written in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [garkimasera/rusted-ruins](https://github.com/garkimasera/rusted-ruins) - Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.
