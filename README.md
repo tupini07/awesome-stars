@@ -117,6 +117,7 @@
 
 ## C# # 
 
+- [SebLague/Tiny-Chess-Godot](https://github.com/SebLague/Tiny-Chess-Godot) - Play against a selection of increasingly difficult chess bots
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [NoelFB/Foster](https://github.com/NoelFB/Foster) - A small C# game framework
@@ -399,7 +400,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [xtruder/nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer
-- [MicheleFiladelfia/mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform fractals explorer 🌌
+- [MicheleFiladelfia/fractals-cli](https://github.com/MicheleFiladelfia/fractals-cli) - Multiplatform fractals explorer 🌌
 - [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner) - Quickly clean up unused forks on your github account.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [gdamore/tcell](https://github.com/gdamore/tcell) - Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
@@ -549,6 +550,7 @@
 
 ## JavaScript 
 
+- [cmod/bibliotype](https://github.com/cmod/bibliotype) - A base for longform tablet typography in HTML
 - [schellingb/LoveWebBuilder](https://github.com/schellingb/LoveWebBuilder) - Package, build and run LÖVE games for the web - https://schellingb.github.io/LoveWebBuilder/
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
