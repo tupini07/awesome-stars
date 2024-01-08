@@ -120,7 +120,7 @@
 - [SebLague/Tiny-Chess-Godot](https://github.com/SebLague/Tiny-Chess-Godot) - Play against a selection of increasingly difficult chess bots
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [NoelFB/Foster](https://github.com/NoelFB/Foster) - A small C# game framework
+- [FosterFramework/Foster](https://github.com/FosterFramework/Foster) - A small C# game framework
 - [BenMakesGames/TinyUnixTimestamp](https://github.com/BenMakesGames/TinyUnixTimestamp) - Adds a system tray icon which can be clicked to copy the current unix timestamp to your clipboard.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [isadorasophia/gum](https://github.com/isadorasophia/gum) - A dialogue narrative scripting language that integrates with Murder Engine.
@@ -294,6 +294,7 @@
 
 ## Elixir 
 
+- [erikareads/do_nothing](https://github.com/erikareads/do_nothing) - A gradual automation scripting framework for Elixir.
 - [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
 - [gleam-lang/mix_gleam](https://github.com/gleam-lang/mix_gleam) - ⚗️ Build Gleam code with mix
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
@@ -346,7 +347,7 @@
 ## Fennel 
 
 - [Olical/nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
-- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
+- [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
 - [Olical/magic-kit](https://github.com/Olical/magic-kit) - A starter kit for Conjure, Aniseed and Neovim
 - [Olical/aniseed](https://github.com/Olical/aniseed) - Neovim configuration and plugins in Fennel (Lisp compiled to Lua)
@@ -393,7 +394,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -468,7 +469,6 @@
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [roytang/blog](https://github.com/roytang/blog) - Source for my blog!
 - [radar/joyofelixir](https://github.com/radar/joyofelixir) - A gentle introduction to the Elixir programming language
-- [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, talks and other digital resources for learning about Buddhism.
 - [practicalli/clojure](https://github.com/practicalli/clojure) - Practicalli Clojure REPL Driven Development
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -803,12 +803,13 @@
 
 ## Python 
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
+- [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, talks and other digital resources for learning about Buddhism.
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
@@ -908,6 +909,7 @@
 ## Racket 
 
 - [soegaard/sketching](https://github.com/soegaard/sketching) - A Racket library for creative drawings and animations. Inspired by Processing.
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Ruby 
 
@@ -952,7 +954,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [gamercade-io/gamercade_console](https://github.com/gamercade-io/gamercade_console) - A Neo-Retro Fantasy Console. Make WASM-powered, networked multiplayer games.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [Toqozz/bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) - A prototype plugin providing a simple line drawing api for bevy.
@@ -1043,7 +1045,6 @@
 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [petelliott/raylib-guile](https://github.com/petelliott/raylib-guile) - raylib guile bindings for my good friend jacob's birthday
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
 - [webyrd/Barliman](https://github.com/webyrd/Barliman) - Prototype smart text editor
 
 ## Shell 
@@ -1076,6 +1077,7 @@
 
 ## TypeScript 
 
+- [abagames/crisp-game-lib](https://github.com/abagames/crisp-game-lib) - Minimal JavaScript library for creating classic arcade-like mini-games running in the browser
 - [ivan-demchenko/roc-vscode-unofficial](https://github.com/ivan-demchenko/roc-vscode-unofficial) - An experimental VSCode extension for Roc language
 - [QWxleA/logseq-interstitial-heading-plugin](https://github.com/QWxleA/logseq-interstitial-heading-plugin) - Insert an interstitial heading in your daily note
 - [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) - Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libr
