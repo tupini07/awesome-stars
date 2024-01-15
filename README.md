@@ -25,6 +25,7 @@
 - [Gleam](#gleam)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
@@ -225,6 +226,7 @@
 
 ## Clojure 
 
+- [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
 - [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library
 - [borkdude/carve](https://github.com/borkdude/carve) - Remove unused Clojure vars
@@ -332,6 +334,7 @@
 
 ## F# # 
 
+- [fsprojects/FSharp.Data](https://github.com/fsprojects/FSharp.Data) - F# Data: Library for Data Access
 - [Zaid-Ajaj/Femto](https://github.com/Zaid-Ajaj/Femto) - Femto is a CLI tool that automatically resolves npm packages used by Fable bindings
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
 - [dotnet/fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
@@ -375,7 +378,9 @@
 
 ## Go 
 
-- [xNaCly/Sophia](https://github.com/xNaCly/Sophia) - Lisp like embeddable scripting language.
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [biox/vore](https://github.com/biox/vore) - a simple, multi-tenant feed reader
+- [xNaCly/Sophia](https://github.com/xNaCly/Sophia) - Lisp like, embeddable and extendable scripting language supporting go interoperability
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
 - [quasilyte/gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage for games
@@ -384,7 +389,7 @@
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
 - [EdmondTabaku/mojo-gojo](https://github.com/EdmondTabaku/mojo-gojo) - 
 - [SolarLune/messages](https://github.com/SolarLune/messages) - Messages is a golang library tuned for gamedev for subscribing to and passing messages between relevant objects.
-- [sinisterstuf/dynamo](https://github.com/sinisterstuf/dynamo) - Escape the maze by dynamo torchlight! 🔦 Game submission for the 2021 Nokia 3310 Jam.
+- [sionleroux/dynamo](https://github.com/sionleroux/dynamo) - Escape the maze by dynamo torchlight! 🔦 Game submission for the 2021 Nokia 3310 Jam.
 - [google/simhospital](https://github.com/google/simhospital) - 
 - [robert/gamebert](https://github.com/robert/gamebert) - A Game Boy emulator written by Robert
 - [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
@@ -462,6 +467,10 @@
 ## Groovy 
 
 - [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
+
+## HLSL 
+
+- [DeadlyRedCube/Cathode-Retro](https://github.com/DeadlyRedCube/Cathode-Retro) - A collection of shaders to emulate the display of an NTSC signal through a CRT TV
 
 ## HTML 
 
@@ -620,7 +629,7 @@
 - [mathiasvr/youtube-terminal](https://github.com/mathiasvr/youtube-terminal) - :tv: Stream YouTube videos as ascii art in the terminal!
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
+- [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot) - React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in
 - [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 - [spite/Wagner](https://github.com/spite/Wagner) - Effects composer for three.js
@@ -1104,7 +1113,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) - Dialog creation and management for Microsoft Bot Framework Applications
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
+- [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
