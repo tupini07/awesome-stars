@@ -81,12 +81,13 @@
 
 ## C 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
-- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language (WIP) Tasks --- https://trello.com/b/f25EcuX6/%F0%9F%91%BF-yaksha-tasks
+- [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
-- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn i'ts a simple programming language written in C that is compiled to C.
+- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn it's a simple programming language written in C that is compiled to C.
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
@@ -226,6 +227,7 @@
 
 ## Clojure 
 
+- [alandipert/storage-atom](https://github.com/alandipert/storage-atom) - ClojureScript atoms backed by HTML5 web storage.
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
 - [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library
@@ -768,6 +770,7 @@
 
 ## Others 
 
+- [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc and other things
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -776,7 +779,7 @@
 - [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
-- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
+- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [b0o/starred](https://github.com/b0o/starred) - 🌟 Maddison's starred repos, updated daily!
 - [stefandevai/awesome-tic-80](https://github.com/stefandevai/awesome-tic-80) - A curated list of awesome TIC-80 tutorials, resources and useful links
 - [arnog/tecendil-js](https://github.com/arnog/tecendil-js) - Tengwar mode files and localization for Tecendil
@@ -808,7 +811,7 @@
 
 ## PureScript 
 
-- [feramhq/Transity](https://github.com/feramhq/Transity) - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line
+- [feramhq/Transity](https://github.com/feramhq/Transity) - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line with the plain text accounting tool of the future! 🚀
 
 ## Python 
 
@@ -1058,7 +1061,6 @@
 
 ## Shell 
 
-- [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc and other things
 - [gleam-community/gleam-install](https://github.com/gleam-community/gleam-install) - An installer for Gleam on Linux and macOS
 - [catppuccin/misskey](https://github.com/catppuccin/misskey) - 🍮 Soothing pastel theme for Misskey
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
@@ -1086,6 +1088,8 @@
 
 ## TypeScript 
 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [abagames/crisp-game-lib](https://github.com/abagames/crisp-game-lib) - Minimal JavaScript library for creating classic arcade-like mini-games running in the browser
 - [ivan-demchenko/roc-vscode-unofficial](https://github.com/ivan-demchenko/roc-vscode-unofficial) - An experimental VSCode extension for Roc language
 - [QWxleA/logseq-interstitial-heading-plugin](https://github.com/QWxleA/logseq-interstitial-heading-plugin) - Insert an interstitial heading in your daily note
