@@ -126,6 +126,7 @@
 
 ## C# # 
 
+- [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2)
 - [BenMakesGames/BlockBreak](https://github.com/BenMakesGames/BlockBreak) - A Breakout clone made with MonoGame, PlayPlayMini, EntityFramework, and Serilog.
 - [SebLague/Tiny-Chess-Godot](https://github.com/SebLague/Tiny-Chess-Godot) - Play against a selection of increasingly difficult chess bots
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
@@ -236,6 +237,9 @@
 
 ## Clojure 
 
+- [seancorfield/clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates!
+- [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
+- [datacrypt-project/hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure
 - [alandipert/storage-atom](https://github.com/alandipert/storage-atom) - ClojureScript atoms backed by HTML5 web storage.
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
@@ -378,6 +382,7 @@
 
 ## Gleam 
 
+- [MystPi/glen](https://github.com/MystPi/glen) - 🏕️ A peaceful web framework for Gleam that targets JS.
 - [rawhat/mist](https://github.com/rawhat/mist) - gleam HTTP server. because it glistens on a web
 - [massivefermion/radish](https://github.com/massivefermion/radish) - A Redis client for Gleam
 - [gleam-lang/otp](https://github.com/gleam-lang/otp) - 📫 Fault tolerant multicore programs with actors
@@ -700,6 +705,7 @@
 
 ## Lua 
 
+- [ExOK/Celeste2](https://github.com/ExOK/Celeste2) - Celeste Classic 2 for PICO-8!
 - [SylviBlossom/love-haxe-wrappergen](https://github.com/SylviBlossom/love-haxe-wrappergen) - Haxe wrapper generator for the LÖVE API
 - [potch/playout](https://github.com/potch/playout) - UI library and box model for Playdate
 - [luvit/luvit](https://github.com/luvit/luvit) - Lua + libUV + jIT = pure awesomesauce
@@ -848,7 +854,7 @@
 - [microsoft/archai](https://github.com/microsoft/archai) - Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [lilianweng/emoji-semantic-search](https://github.com/lilianweng/emoji-semantic-search) - Search the most relevant emojis given a natural language query
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
 - [quantumgraph/qgprofiler](https://github.com/quantumgraph/qgprofiler) - A simple, user driven python profiler
 - [extremeheat/JSPyBridge](https://github.com/extremeheat/JSPyBridge) - 🌉. Bridge to interoperate Node.js and Python
@@ -939,6 +945,7 @@
 
 ## Ruby 
 
+- [vidarh/rubywm](https://github.com/vidarh/rubywm) - An X11 window manager in pure Ruby
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [seattlerb/debride](https://github.com/seattlerb/debride) - Analyze code for potentially uncalled / dead methods, now with auto-removal.
 - [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage)
@@ -950,6 +957,7 @@
 
 ## Rust 
 
+- [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -960,7 +968,7 @@
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [verus-lang/verus](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
@@ -1105,6 +1113,7 @@
 
 ## TypeScript 
 
+- [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
