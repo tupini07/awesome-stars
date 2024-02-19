@@ -222,7 +222,7 @@
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [miki151/keeperrl](https://github.com/miki151/keeperrl) - Source code of KeeperRL
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
@@ -386,6 +386,7 @@
 
 ## Gleam 
 
+- [lpil/youid](https://github.com/lpil/youid) - 
 - [MystPi/glen](https://github.com/MystPi/glen) - 🏕️ A peaceful web framework for Gleam that targets JS.
 - [rawhat/mist](https://github.com/rawhat/mist) - gleam HTTP server. because it glistens on a web
 - [massivefermion/radish](https://github.com/massivefermion/radish) - A Redis client for Gleam
@@ -442,7 +443,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+- [elves/elvish](https://github.com/elves/elvish) - Versatile interactive shell & powerful scripting language in one
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/tetra3d](https://github.com/SolarLune/tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebitengine.
 - [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine
@@ -838,6 +839,8 @@
 
 ## Python 
 
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
+- [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [MicrosoftJames/streamlit-with-promptflow](https://github.com/MicrosoftJames/streamlit-with-promptflow) - 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
@@ -949,6 +952,7 @@
 
 ## Ruby 
 
+- [DragonRidersUnite/book](https://github.com/DragonRidersUnite/book) - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
 - [vidarh/rubywm](https://github.com/vidarh/rubywm) - An X11 window manager in pure Ruby
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [seattlerb/debride](https://github.com/seattlerb/debride) - Analyze code for potentially uncalled / dead methods, now with auto-removal.
