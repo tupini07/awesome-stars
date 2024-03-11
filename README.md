@@ -106,7 +106,6 @@
 - [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [greenfork/jzignet](https://github.com/greenfork/jzignet) - Zig library to connect Janet and Zig together
-- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -401,6 +400,7 @@
 
 ## Go 
 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [biox/vore](https://github.com/biox/vore) - a simple, multi-tenant feed reader
 - [xNaCly/Sophia](https://github.com/xNaCly/Sophia) - Lisp like, embeddable and extendable scripting language supporting go interoperability
@@ -501,7 +501,6 @@
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [roytang/blog](https://github.com/roytang/blog) - Source for my blog!
 - [radar/joyofelixir](https://github.com/radar/joyofelixir) - A gentle introduction to the Elixir programming language
-- [practicalli/clojure](https://github.com/practicalli/clojure) - Practicalli Clojure REPL Driven Development
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
@@ -514,6 +513,7 @@
 
 ## Haskell 
 
+- [koka-lang/koka](https://github.com/koka-lang/koka) - Koka language compiler and interpreter
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [ghcjs/ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [Anut-py/h-raylib](https://github.com/Anut-py/h-raylib) - Haskell bindings for Raylib
@@ -585,6 +585,7 @@
 
 ## JavaScript 
 
+- [dada-lang/dada](https://github.com/dada-lang/dada) - I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.
 - [cmod/bibliotype](https://github.com/cmod/bibliotype) - A base for longform tablet typography in HTML
 - [schellingb/LoveWebBuilder](https://github.com/schellingb/LoveWebBuilder) - Package, build and run LÖVE games for the web - https://schellingb.github.io/LoveWebBuilder/
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
@@ -683,7 +684,7 @@
 ## Jupyter Notebook 
 
 - [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
@@ -762,6 +763,7 @@
 
 ## Markdown 
 
+- [practicalli/clojure](https://github.com/practicalli/clojure) - Practicalli Clojure REPL Driven Development
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Mathematica 
@@ -806,6 +808,7 @@
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [weirderearth/weirder-rules](https://github.com/weirderearth/weirder-rules) - weirder.earth's community guidelines
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [penk/penkesu](https://github.com/penk/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -895,7 +898,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TrippW/HadesBot](https://github.com/TrippW/HadesBot) - A reddit bot that watches the HadesTheGame subreddit and posts helpful hints on what key items and abilities do.
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor) - The most advanced and complete solution for extracting WhatsApp key/DB from package directory (/data/data/com.whatsapp) without root access.
 - [dansanderson/picotool](https://github.com/dansanderson/picotool) - Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
