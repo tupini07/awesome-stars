@@ -172,6 +172,7 @@
 
 ## C++ 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [lovebrew/lovepotion](https://github.com/lovebrew/lovepotion) - LÖVE for Nintendo Homebrew
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
@@ -403,6 +404,8 @@
 
 ## Go 
 
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -481,7 +484,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
-- [jakecoffman/cp](https://github.com/jakecoffman/cp) - (unofficial) Chipmunk2D in Go, no dependencies
+- [jakecoffman/cp](https://github.com/jakecoffman/cp) - A pure Go physics library with no dependencies. Unofficial Chipmunk2D port.
 - [SolarLune/resolv](https://github.com/SolarLune/resolv) - A Simple 2D Golang collision detection and resolution library for games
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
@@ -715,6 +718,7 @@
 
 ## Lua 
 
+- [Rayquaza01/picotron-utilities](https://github.com/Rayquaza01/picotron-utilities) - 
 - [ExOK/Celeste2](https://github.com/ExOK/Celeste2) - Celeste Classic 2 for PICO-8!
 - [SylviBlossom/love-haxe-wrappergen](https://github.com/SylviBlossom/love-haxe-wrappergen) - Haxe wrapper generator for the LÖVE API
 - [potch/playout](https://github.com/potch/playout) - UI library and box model for Playdate
@@ -851,14 +855,14 @@
 
 ## PureScript 
 
-- [feramhq/Transity](https://github.com/feramhq/Transity) - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line with the plain text accounting tool of the future! 🚀
+- [ad-si/Transity](https://github.com/ad-si/Transity) - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line with the plain text accounting tool of the future! 🚀
 
 ## Python 
 
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [MicrosoftJames/streamlit-with-promptflow](https://github.com/MicrosoftJames/streamlit-with-promptflow) - 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
@@ -1031,7 +1035,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [rust-adventure/2d-platformer-sandbox-youtube-series](https://github.com/rust-adventure/2d-platformer-sandbox-youtube-series) - A series of videos exploring 2d platformer creation with Bevy ECS
 - [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine
-- [vectorgameexperts/bevy-shell-template](https://github.com/vectorgameexperts/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
+- [loopystudios/bevy-shell-template](https://github.com/loopystudios/bevy-shell-template) - An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.
 - [zesterer/tao](https://github.com/zesterer/tao) - A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
 - [ollej/rusty-slider](https://github.com/ollej/rusty-slider) - A small tool to display markdown files as a slideshow written in Rust.
 - [yazgoo/bema](https://github.com/yazgoo/bema) - write your next slideshow in rust 🦀, as a self-contained binary  📦.
@@ -1141,6 +1145,7 @@
 
 ## TypeScript 
 
+- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
