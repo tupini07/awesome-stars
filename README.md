@@ -92,7 +92,7 @@
 - [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language - Offside rule + Lisp system for macros. 🐣 WIP
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
-- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn it's a simple programming language written in C that is compiled to C.
+- [barn-lang/barn](https://github.com/barn-lang/barn) - Barn is a simple programming language written in C that is compiled to C.
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
@@ -124,6 +124,7 @@
 
 ## C# # 
 
+- [BenMakesGames/Sam](https://github.com/BenMakesGames/Sam) - 
 - [BenMakesGames/BotanyIslets](https://github.com/BenMakesGames/BotanyIslets) - 
 - [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
@@ -240,6 +241,9 @@
 
 ## Clojure 
 
+- [squint-cljs/cherry](https://github.com/squint-cljs/cherry) - Experimental ClojureScript to ES6 module compiler
+- [squint-cljs/squint](https://github.com/squint-cljs/squint) - Light-weight ClojureScript dialect
+- [adam-james-v/badspreadsheet](https://github.com/adam-james-v/badspreadsheet) - A Clojure Spreadsheet for building design tools.
 - [fulcrologic/guardrails](https://github.com/fulcrologic/guardrails) - Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli
 - [metosin/malli](https://github.com/metosin/malli) - High-performance data-driven data specification library for Clojure/Script.
 - [leonoel/missionary](https://github.com/leonoel/missionary) - A functional effect and streaming system for Clojure/Script
@@ -386,10 +390,11 @@
 
 ## GDScript 
 
-- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 
 ## Gleam 
 
+- [MAHcodes/catppuccin](https://github.com/MAHcodes/catppuccin) - ⭐️ Soothing pastel library for Gleam
 - [bcpeinhardt/learn_otp_with_gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam) - A resource for learning the OTP framework with the Gleam programming language
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
 - [lpil/youid](https://github.com/lpil/youid) - 
@@ -506,6 +511,7 @@
 
 ## HTML 
 
+- [anselmwang/PaperAgent](https://github.com/anselmwang/PaperAgent) - Retrieve papers met your interests and create an ebook for quick skimming
 - [load-a/tomes](https://github.com/load-a/tomes) - These are some tools I created for my own projects. Some of the contents include input handlers, geometry modules and a file loader.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
@@ -1156,7 +1162,7 @@
 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
