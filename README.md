@@ -127,7 +127,7 @@
 - [BenMakesGames/Sam](https://github.com/BenMakesGames/Sam) - 
 - [BenMakesGames/BotanyIslets](https://github.com/BenMakesGames/BotanyIslets) - 
 - [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [erinnmclaughlin/Flappy-Bird](https://github.com/erinnmclaughlin/Flappy-Bird) - Flappy Bird built with Blazor WebAssembly (and without JavaScript interop)!
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2)
 - [BenMakesGames/BlockBreak](https://github.com/BenMakesGames/BlockBreak) - A Breakout clone made with MonoGame, PlayPlayMini, EntityFramework, and Serilog.
@@ -241,6 +241,7 @@
 
 ## Clojure 
 
+- [damn/gdl](https://github.com/damn/gdl) - Functional 2D game engine in clojure
 - [squint-cljs/cherry](https://github.com/squint-cljs/cherry) - Experimental ClojureScript to ES6 module compiler
 - [squint-cljs/squint](https://github.com/squint-cljs/squint) - Light-weight ClojureScript dialect
 - [adam-james-v/badspreadsheet](https://github.com/adam-james-v/badspreadsheet) - A Clojure Spreadsheet for building design tools.
@@ -362,6 +363,7 @@
 
 ## F# # 
 
+- [ScottArbeit/Grace](https://github.com/ScottArbeit/Grace) - Grace Version Control System
 - [fsprojects/FSharp.Data](https://github.com/fsprojects/FSharp.Data) - F# Data: Library for Data Access
 - [Zaid-Ajaj/Femto](https://github.com/Zaid-Ajaj/Femto) - Femto is a CLI tool that automatically resolves npm packages used by Fable bindings
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
@@ -412,6 +414,8 @@
 
 ## Go 
 
+- [go-toolsmith/minformat](https://github.com/go-toolsmith/minformat) - gominfmt makes the Go code more compact to aid further compression; revert with gofmt
+- [bloeys/nmage](https://github.com/bloeys/nmage) - Go 3D Game Engine from (almost) scratch
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go using Mycomarkup as its primary markup language.
@@ -823,6 +827,7 @@
 
 ## Others 
 
+- [ianriva/xfce4-terminal-themes](https://github.com/ianriva/xfce4-terminal-themes) - A collection of themes for the xfce terminal emulator
 - [awesome-dragonruby/awesome-dragonruby](https://github.com/awesome-dragonruby/awesome-dragonruby) - A collection of awesome DragonRuby example apps, libraries, tools, frameworks, software and resources
 - [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc and other things
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
@@ -1162,7 +1167,7 @@
 
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super Fast Airtable alternative build on top of Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
