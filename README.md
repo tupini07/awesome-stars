@@ -96,7 +96,7 @@
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
-- [Woflox/intoruins](https://github.com/Woflox/intoruins) - A chaotic roguelike full of orbs
+- [Woflox/intoruins](https://github.com/Woflox/intoruins) - Modern roguelike with atmosphere
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [hanilr/variation-ui](https://github.com/hanilr/variation-ui) - Single-header terminal user interface library. Written in ansi-c
@@ -241,6 +241,7 @@
 
 ## Clojure 
 
+- [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven routing library for Clojure/Script
 - [damn/gdl](https://github.com/damn/gdl) - Functional 2D game engine in clojure
 - [squint-cljs/cherry](https://github.com/squint-cljs/cherry) - Experimental ClojureScript to ES6 module compiler
 - [squint-cljs/squint](https://github.com/squint-cljs/squint) - Light-weight ClojureScript dialect
@@ -248,7 +249,7 @@
 - [fulcrologic/guardrails](https://github.com/fulcrologic/guardrails) - Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli
 - [metosin/malli](https://github.com/metosin/malli) - High-performance data-driven data specification library for Clojure/Script.
 - [leonoel/missionary](https://github.com/leonoel/missionary) - A functional effect and streaming system for Clojure/Script
-- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to manage the frontend/backend boundary
 - [seancorfield/clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates!
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
 - [datacrypt-project/hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure
@@ -279,7 +280,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning sub-processes
-- [ztellman/virgil](https://github.com/ztellman/virgil) - your own personal JVM psychopomp
+- [clj-commons/virgil](https://github.com/clj-commons/virgil) - your own personal JVM psychopomp
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
@@ -292,6 +293,7 @@
 
 ## Common Lisp 
 
+- [Shirakumo/kandria](https://github.com/Shirakumo/kandria) - A post-apocalyptic actionRPG. Now on Steam!
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [joaotavora/sly](https://github.com/joaotavora/sly) - Sylvester the Cat's Common Lisp IDE
 - [longlene/cl-raylib](https://github.com/longlene/cl-raylib) - Common Lisp binding of raylib
@@ -327,7 +329,7 @@
 - [erikareads/do_nothing](https://github.com/erikareads/do_nothing) - A gradual automation scripting framework for Elixir.
 - [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
 - [gleam-lang/mix_gleam](https://github.com/gleam-lang/mix_gleam) - ⚗️ Build Gleam code with mix
-- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative, extensible framework for building Elixir applications.
 - [pedromtavares/moba](https://github.com/pedromtavares/moba) - A turn-based browser RPG built with Phoenix LiveView
 - [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) - Template project for Advent of Code in Elixir.
 - [dashbitco/broadway](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir
@@ -518,7 +520,6 @@
 - [anselmwang/PaperAgent](https://github.com/anselmwang/PaperAgent) - Retrieve papers met your interests and create an ebook for quick skimming
 - [load-a/tomes](https://github.com/load-a/tomes) - These are some tools I created for my own projects. Some of the contents include input handlers, geometry modules and a file loader.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [roytang/blog](https://github.com/roytang/blog) - Source for my blog!
 - [radar/joyofelixir](https://github.com/radar/joyofelixir) - A gentle introduction to the Elixir programming language
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -583,6 +584,7 @@
 
 ## Java 
 
+- [love2d/love-android](https://github.com/love2d/love-android) - Android build setup for LÖVE.
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [timeopochin/tokiponakeyboard](https://github.com/timeopochin/tokiponakeyboard) - 
 - [mirkosertic/Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
@@ -829,7 +831,7 @@
 
 - [ianriva/xfce4-terminal-themes](https://github.com/ianriva/xfce4-terminal-themes) - A collection of themes for the xfce terminal emulator
 - [awesome-dragonruby/awesome-dragonruby](https://github.com/awesome-dragonruby/awesome-dragonruby) - A collection of awesome DragonRuby example apps, libraries, tools, frameworks, software and resources
-- [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc and other things
+- [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
@@ -875,12 +877,14 @@
 
 ## Python 
 
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [MicrosoftJames/streamlit-with-promptflow](https://github.com/MicrosoftJames/streamlit-with-promptflow) - 
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1138,6 +1142,7 @@
 
 ## Shell 
 
+- [biox/shmoji](https://github.com/biox/shmoji) - a little shell-based emoji picker
 - [gleam-community/gleam-install](https://github.com/gleam-community/gleam-install) - An installer for Gleam on Linux and macOS
 - [catppuccin/misskey](https://github.com/catppuccin/misskey) - 🍮 Soothing pastel theme for Misskey
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
@@ -1165,6 +1170,7 @@
 
 ## TypeScript 
 
+- [Pictogrammers/Memory](https://github.com/Pictogrammers/Memory) - Memory Icon Set; ideal for use with Sharp Memory Display 2.7"
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
