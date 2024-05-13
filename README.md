@@ -236,6 +236,7 @@
 
 ## CSS 
 
+- [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL 2) in Windows 10 or 11.
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [rooklift/sabaki_subdued_theme_40](https://github.com/rooklift/sabaki_subdued_theme_40) - 
 
@@ -280,7 +281,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [babashka/process](https://github.com/babashka/process) - Clojure library for shelling out / spawning sub-processes
-- [clj-commons/virgil](https://github.com/clj-commons/virgil) - your own personal JVM psychopomp
+- [clj-commons/virgil](https://github.com/clj-commons/virgil) - Recompile Java code without restarting the REPL
 - [joy-framework/joy](https://github.com/joy-framework/joy) - A full stack web framework written in janet
 - [practicalli/exercism-clojure-guides](https://github.com/practicalli/exercism-clojure-guides) - Design journal and solutions to the Exercism Clojure track
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
@@ -326,6 +327,7 @@
 
 ## Elixir 
 
+- [bartblast/hologram](https://github.com/bartblast/hologram) - Full stack isomorphic Elixir web framework
 - [erikareads/do_nothing](https://github.com/erikareads/do_nothing) - A gradual automation scripting framework for Elixir.
 - [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) - :watch: Cron-like job scheduler for Elixir
 - [gleam-lang/mix_gleam](https://github.com/gleam-lang/mix_gleam) - ⚗️ Build Gleam code with mix
@@ -347,6 +349,7 @@
 
 ## Emacs Lisp 
 
+- [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
 - [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄 + a shell maker for other providers
 - [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [Kodiologist/Daylight](https://github.com/Kodiologist/Daylight) - Open-notebook science in Org mode
@@ -443,7 +446,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 23rd - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -723,6 +726,7 @@
 
 ## Kotlin 
 
+- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [retrowars/retrowars](https://github.com/retrowars/retrowars) - Play retro games against each other in any combination in this open source Android multiplayer game.
 - [Ekenstein/sgf2gif](https://github.com/Ekenstein/sgf2gif) - A program that converts an SGF-file to an animated GIF a la Hayauchi Super Igo style.
@@ -734,6 +738,7 @@
 
 ## Lua 
 
+- [snowkittykira/picotron-error-explorer](https://github.com/snowkittykira/picotron-error-explorer) - an interactive error screen for picotron
 - [Rayquaza01/picotron-utilities](https://github.com/Rayquaza01/picotron-utilities) - 
 - [ExOK/Celeste2](https://github.com/ExOK/Celeste2) - Celeste Classic 2 for PICO-8!
 - [SylviBlossom/love-haxe-wrappergen](https://github.com/SylviBlossom/love-haxe-wrappergen) - Haxe wrapper generator for the LÖVE API
@@ -877,6 +882,9 @@
 
 ## Python 
 
+- [muskankhaneja/Chatbot-with-Langchain-and-Streamlit](https://github.com/muskankhaneja/Chatbot-with-Langchain-and-Streamlit) - 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
+- [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
@@ -1170,6 +1178,8 @@
 
 ## TypeScript 
 
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [Pictogrammers/Memory](https://github.com/Pictogrammers/Memory) - Memory Icon Set; ideal for use with Sharp Memory Display 2.7"
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
