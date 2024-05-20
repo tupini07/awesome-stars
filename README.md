@@ -15,6 +15,7 @@
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
+- [Cuda](#cuda)
 - [D](#d)
 - [Dart](#dart)
 - [Elixir](#elixir)
@@ -309,6 +310,10 @@
 - [mccallofthewild/markov](https://github.com/mccallofthewild/markov) - ⛓ A Crystal library for building Markov Chains and running Markov Processes.
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 
+## Cuda 
+
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+
 ## D 
 
 - [dlang/dmd](https://github.com/dlang/dmd) - dmd D Programming Language compiler
@@ -401,7 +406,7 @@
 
 ## Gleam 
 
-- [MAHcodes/catppuccin](https://github.com/MAHcodes/catppuccin) - ⭐️ Soothing pastel library for Gleam
+- [catppuccin/gleam](https://github.com/catppuccin/gleam) - ⭐️ Soothing pastel library for Gleam
 - [bcpeinhardt/learn_otp_with_gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam) - A resource for learning the OTP framework with the Gleam programming language
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
 - [lpil/youid](https://github.com/lpil/youid) - 
@@ -521,7 +526,6 @@
 ## HTML 
 
 - [anselmwang/PaperAgent](https://github.com/anselmwang/PaperAgent) - Retrieve papers met your interests and create an ebook for quick skimming
-- [load-a/tomes](https://github.com/load-a/tomes) - These are some tools I created for my own projects. Some of the contents include input handlers, geometry modules and a file loader.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [roytang/blog](https://github.com/roytang/blog) - Source for my blog!
 - [radar/joyofelixir](https://github.com/radar/joyofelixir) - A gentle introduction to the Elixir programming language
@@ -641,7 +645,7 @@
 - [caerphoto/whistletab](https://github.com/caerphoto/whistletab) - Tin Whistle tab creator for D-tuned whistles
 - [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server
 - [cljsjs/packages](https://github.com/cljsjs/packages) - DEPRECATED: Javascript libraries packaged up with Google Closure externs
-- [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.4)
+- [Davidobot/love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten, updated to the latest Emscripten and LÖVE (v11.5)
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [mathiasbynens/mothereff.in](https://github.com/mathiasbynens/mothereff.in) - Web developer tools
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - checks all of the hyperlinks in a markdown text to determine if they are alive or dead
@@ -924,8 +928,9 @@
 - [mouse-reeve/placevalue_ascii](https://github.com/mouse-reeve/placevalue_ascii) - Create integer grids of binary place values for a function
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) - Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1003,6 +1008,7 @@
 ## Ruby 
 
 - [buren/wayback_archiver](https://github.com/buren/wayback_archiver) - Ruby gem to send URLs to Wayback Machine
+- [load-a/tomes](https://github.com/load-a/tomes) - These are some tools I created for my own projects. Some of the contents include input handlers, runtime changes and a file loader.
 - [DragonRidersUnite/book](https://github.com/DragonRidersUnite/book) - A comprehensive guide to shipping cross-platform games with ease using DragonRuby Game Toolkit.
 - [vidarh/rubywm](https://github.com/vidarh/rubywm) - An X11 window manager in pure Ruby
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
@@ -1081,9 +1087,8 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 tui-rs framework to build stateful applications with a React/Elm inspired approach
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [scambier/TQ-Bundler](https://github.com/scambier/TQ-Bundler) - The all-in-one TIC-80 bundler
@@ -1178,6 +1183,8 @@
 
 ## TypeScript 
 
+- [robertknight/tesseract-wasm](https://github.com/robertknight/tesseract-wasm) - JS/WebAssembly build of the Tesseract OCR engine for use in browsers and Node
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [Pictogrammers/Memory](https://github.com/Pictogrammers/Memory) - Memory Icon Set; ideal for use with Sharp Memory Display 2.7"
@@ -1200,7 +1207,6 @@
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [chetachiezikeuzor/Pixr-Plugin](https://github.com/chetachiezikeuzor/Pixr-Plugin) - An Obsidian.md plugin that brings Unsplash, the largest open collection of high-quality photos, into Obsidian for a better image-use workflow 🌄.
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
