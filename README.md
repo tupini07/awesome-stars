@@ -243,6 +243,10 @@
 
 ## Clojure 
 
+- [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
+- [NoahTheDuke/splint](https://github.com/NoahTheDuke/splint) - A Clojure linter focused on style and code shape.
+- [clj-commons/kibit](https://github.com/clj-commons/kibit) - There's a function for that!
+- [clojure/core.logic](https://github.com/clojure/core.logic) - A logic programming library for Clojure & ClojureScript
 - [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven routing library for Clojure/Script
 - [damn/gdl](https://github.com/damn/gdl) - Functional 2D game engine in clojure
 - [squint-cljs/cherry](https://github.com/squint-cljs/cherry) - Experimental ClojureScript to ES6 module compiler
@@ -406,6 +410,7 @@
 
 ## Gleam 
 
+- [lustre-labs/ssg](https://github.com/lustre-labs/ssg) - 
 - [catppuccin/gleam](https://github.com/catppuccin/gleam) - ⭐️ Soothing pastel library for Gleam
 - [bcpeinhardt/learn_otp_with_gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam) - A resource for learning the OTP framework with the Gleam programming language
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - 🎁  Gleam's standard library
@@ -451,7 +456,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 23rd - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 27th - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -511,6 +516,7 @@
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
 - [andrewpillar/cl](https://github.com/andrewpillar/cl) - Concurrently run commands across multiple servers via SSH
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
@@ -624,7 +630,6 @@
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [olafjanssen/sitelen-sitelen-renderer](https://github.com/olafjanssen/sitelen-sitelen-renderer) - JavaScript library to turn Toki Pona text into the Sitelen Sitelen or Sitelen Suwi non-linear writing style.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [upsided/Upsided-OGS-Themes](https://github.com/upsided/Upsided-OGS-Themes) - TamperMonkey themes for online-go.com
@@ -789,7 +794,6 @@
 
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
@@ -886,6 +890,7 @@
 
 ## Python 
 
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
 - [muskankhaneja/Chatbot-with-Langchain-and-Streamlit](https://github.com/muskankhaneja/Chatbot-with-Langchain-and-Streamlit) - 
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
@@ -907,6 +912,7 @@
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/X-Decoder](https://github.com/microsoft/X-Decoder) - [CVPR 2023] Official Implementation of X-Decoder for generalized decoding for pixel, image and language
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
@@ -1022,6 +1028,9 @@
 
 ## Rust 
 
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [shivrm/risp](https://github.com/shivrm/risp) - Interpreted LISP-like language.
@@ -1225,10 +1234,10 @@
 - [lichess-org/lichobile](https://github.com/lichess-org/lichobile) - lichess.org mobile application
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [VadimDez/ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## V 
