@@ -38,6 +38,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -46,6 +47,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Mint](#mint)
+- [MoonScript](#moonscript)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -125,6 +127,7 @@
 
 ## C# # 
 
+- [BenMakesGames/IsometricDemo](https://github.com/BenMakesGames/IsometricDemo) - Demo of some isometric math & rendering, using MonoGame and PlayPlayMini.
 - [BenMakesGames/Sam](https://github.com/BenMakesGames/Sam) - 
 - [BenMakesGames/BotanyIslets](https://github.com/BenMakesGames/BotanyIslets) - 
 - [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
@@ -456,7 +459,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. - WE'RE ON HOLIDAY UNTIL MAY 27th - REPO IS READ-ONLY TO NON-CONTRIBUTORS UNTIL THEN
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -733,6 +736,10 @@
 - [spro/practical-pytorch](https://github.com/spro/practical-pytorch) - Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 
+## Just 
+
+- [catppuccin/misskey](https://github.com/catppuccin/misskey) - 🍮 Soothing pastel theme for Misskey
+
 ## Kotlin 
 
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
@@ -812,6 +819,10 @@
 
 - [mint-lang/mint-ui](https://github.com/mint-lang/mint-ui) - The UI library of Mint
 
+## MoonScript 
+
+- [leafo/lapis](https://github.com/leafo/lapis) - A web framework for Lua and OpenResty written in MoonScript
+
 ## Nim 
 
 - [ftsf/nico](https://github.com/ftsf/nico) - a Game Framework in Nim inspired by Pico-8.
@@ -890,7 +901,8 @@
 
 ## Python 
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [muskankhaneja/Chatbot-with-Langchain-and-Streamlit](https://github.com/muskankhaneja/Chatbot-with-Langchain-and-Streamlit) - 
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
@@ -1028,6 +1040,7 @@
 
 ## Rust 
 
+- [glebbash/LO](https://github.com/glebbash/LO) - LO - small programming language targeting WASM that aims to be as simple as possible
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -1166,7 +1179,6 @@
 
 - [biox/shmoji](https://github.com/biox/shmoji) - a little shell-based emoji picker
 - [gleam-community/gleam-install](https://github.com/gleam-community/gleam-install) - An installer for Gleam on Linux and macOS
-- [catppuccin/misskey](https://github.com/catppuccin/misskey) - 🍮 Soothing pastel theme for Misskey
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1194,7 +1206,7 @@
 
 - [robertknight/tesseract-wasm](https://github.com/robertknight/tesseract-wasm) - JS/WebAssembly build of the Tesseract OCR engine for use in browsers and Node
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - A better way to discuss
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [Pictogrammers/Memory](https://github.com/Pictogrammers/Memory) - Memory Icon Set; ideal for use with Sharp Memory Display 2.7"
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
