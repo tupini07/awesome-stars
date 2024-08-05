@@ -183,6 +183,7 @@
 
 ## C++ 
 
+- [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [pigpigyyy/Yuescript](https://github.com/pigpigyyy/Yuescript) - A Moonscript dialect compiles to Lua.
 - [atw1020/sente](https://github.com/atw1020/sente) - Sente is an open source python library for the game of Go
@@ -1113,7 +1114,7 @@
 - [Nilirad/bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon) - Draw 2D shapes in Bevy
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [Lucretiel/autodefault](https://github.com/Lucretiel/autodefault) - Autodefault automatically makes your struct literals fill themselves with `..default()`
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -1303,6 +1304,7 @@
 
 ## Zig 
 
+- [kristoff-it/zine](https://github.com/kristoff-it/zine) - Fast, Scalable, Flexible Static Site Generator (SSG)
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig
 - [Interrupt/delve-framework](https://github.com/Interrupt/delve-framework) - Delve is a framework for writing Games in Zig and Lua. For those who value being cross platform and keeping things simple.
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) - 👨‍🚀  buzz, A small/lightweight statically typed scripting language
