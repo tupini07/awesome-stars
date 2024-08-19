@@ -111,6 +111,7 @@
 - [andrewchambers/janetsh](https://github.com/andrewchambers/janetsh) - A powerful new shell that uses the janet programming language for both the implementation and repl.
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [greenfork/jzignet](https://github.com/greenfork/jzignet) - Zig library to connect Janet and Zig together
+- [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [phoboslab/qoi](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression
 - [raysan5/challenges](https://github.com/raysan5/challenges) - graphics programming challenges
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
@@ -222,7 +223,6 @@
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) - command line tool that displays constellations
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [Madour/LDtkLoader](https://github.com/Madour/LDtkLoader) - A C++11 loader for levels and tile maps created with LDtk (Level Designer ToolKit)
-- [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [degaart/emocrypt](https://github.com/degaart/emocrypt) - Encrypts data into emojipastas
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -238,7 +238,7 @@
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [coronalabs/corona](https://github.com/coronalabs/corona) - Solar2D Game Engine main repository (ex Corona SDK)
 - [miki151/keeperrl](https://github.com/miki151/keeperrl) - Source code of KeeperRL
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
@@ -538,7 +538,7 @@
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 
 ## Groovy 
 
@@ -605,7 +605,7 @@
 
 - [CFiggers/janet-lsp](https://github.com/CFiggers/janet-lsp) - A Language Server (LSP) for the Janet programming language.
 - [sogaiu/jaylib-wasm-demo](https://github.com/sogaiu/jaylib-wasm-demo) - Demo of using jaylib in a web browser
-- [ianthehenry/bauble.studio](https://github.com/ianthehenry/bauble.studio) - a playground for making 3D art with lisp and math
+- [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
 - [pyrmont/jeep](https://github.com/pyrmont/jeep) - A Janet project management tool
 - [sogaiu/janet-please](https://github.com/sogaiu/janet-please) - 
 - [sogaiu/janet-ref](https://github.com/sogaiu/janet-ref) - Multi-purpose Janet Info Tool
@@ -773,6 +773,7 @@
 
 ## Lua 
 
+- [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [snowkittykira/picotron-error-explorer](https://github.com/snowkittykira/picotron-error-explorer) - an interactive error screen for picotron
 - [Rayquaza01/picotron-utilities](https://github.com/Rayquaza01/picotron-utilities) - 
 - [ExOK/Celeste2](https://github.com/ExOK/Celeste2) - Celeste Classic 2 for PICO-8!
