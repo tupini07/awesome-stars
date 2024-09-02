@@ -899,7 +899,7 @@
 - [turbo/FormulaCompiler](https://github.com/turbo/FormulaCompiler) - Compile any code to basic mathematical formulas.
 - [hyperledger/hyperledger](https://github.com/hyperledger/hyperledger) - Hyperledger is a Collaborative Project at The Linux Foundation.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [cpederkoff/solar](https://github.com/cpederkoff/solar) - A plan for low-cost solar cell encapsulation
 
 ## PHP 
