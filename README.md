@@ -92,7 +92,6 @@
 - [jart/bestline](https://github.com/jart/bestline) - ANSI Standard X3.64 Teletypewriter Command Session Library
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language - Offside rule + Lisp system for macros. 🐣 WIP
@@ -129,6 +128,7 @@
 
 ## C# # 
 
+- [squiggythings/WaveTracker](https://github.com/squiggythings/WaveTracker) - 
 - [aelassas/wexflow](https://github.com/aelassas/wexflow) - .NET Workflow Engine and Automation Platform
 - [space-wizards/RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 - [AvaloniaUI/Avalonia.Markup.Declarative](https://github.com/AvaloniaUI/Avalonia.Markup.Declarative) - Provides helpers for declarative ui in C#
@@ -195,6 +195,7 @@
 - [lovebrew/lovepotion](https://github.com/lovebrew/lovepotion) - LÖVE for Nintendo Homebrew
 - [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [paladin-t/bitty](https://github.com/paladin-t/bitty) - Bitty Engine - An itty bitty 2D game engine, with built-in editors, programmable in Lua.
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
@@ -427,6 +428,7 @@
 
 ## Gleam 
 
+- [gleam-lang/http](https://github.com/gleam-lang/http) - 🕸️ Types and functions for HTTP clients and servers!
 - [lustre-labs/ssg](https://github.com/lustre-labs/ssg) - 
 - [catppuccin/gleam](https://github.com/catppuccin/gleam) - ⭐️ Soothing pastel library for Gleam
 - [bcpeinhardt/learn_otp_with_gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam) - A resource for learning the OTP framework with the Gleam programming language
@@ -448,7 +450,7 @@
 
 - [SolarLune/gooey](https://github.com/SolarLune/gooey) - 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [go-toolsmith/minformat](https://github.com/go-toolsmith/minformat) - gominfmt makes the Go code more compact to aid further compression; revert with gofmt
 - [bloeys/nmage](https://github.com/bloeys/nmage) - Go 3D Game Engine from (almost) scratch
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
@@ -639,6 +641,7 @@
 
 ## JavaScript 
 
+- [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 - [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 - [dada-lang/dada](https://github.com/dada-lang/dada) - I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way.
@@ -1220,6 +1223,7 @@
 
 ## Swift 
 
+- [trill-lang/trill](https://github.com/trill-lang/trill) - A type safe, compiled language inspired by (and written in) Swift
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 
 ## TeX 
@@ -1230,13 +1234,16 @@
 
 ## TypeScript 
 
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [robertknight/tesseract-wasm](https://github.com/robertknight/tesseract-wasm) - JS/WebAssembly build of the Tesseract OCR engine for use in browsers and Node
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [cq2-co/cq2](https://github.com/cq2-co/cq2) - Document. Discuss. Decide.
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - Tool for RFCs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Pictogrammers/Memory](https://github.com/Pictogrammers/Memory) - Memory Icon Set; ideal for use with Sharp Memory Display 2.7"
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
