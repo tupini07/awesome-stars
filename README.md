@@ -128,6 +128,7 @@
 
 ## C# # 
 
+- [aschuhardt/rosy-crow](https://github.com/aschuhardt/rosy-crow) - A Gemini client for Android
 - [squiggythings/WaveTracker](https://github.com/squiggythings/WaveTracker) - 
 - [aelassas/wexflow](https://github.com/aelassas/wexflow) - .NET Workflow Engine and Automation Platform
 - [space-wizards/RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
@@ -428,6 +429,7 @@
 
 ## Gleam 
 
+- [okkdev/glemini](https://github.com/okkdev/glemini) - 🌌 gleam gemini server lib
 - [gleam-lang/http](https://github.com/gleam-lang/http) - 🕸️ Types and functions for HTTP clients and servers!
 - [lustre-labs/ssg](https://github.com/lustre-labs/ssg) - 
 - [catppuccin/gleam](https://github.com/catppuccin/gleam) - ⭐️ Soothing pastel library for Gleam
@@ -452,7 +454,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [go-toolsmith/minformat](https://github.com/go-toolsmith/minformat) - gominfmt makes the Go code more compact to aid further compression; revert with gofmt
-- [bloeys/nmage](https://github.com/bloeys/nmage) - Go 3D Game Engine from (almost) scratch
+- [bloeys/nmage](https://github.com/bloeys/nmage) - 3D Game Engine in Go
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go and using Mycomarkup as its primary markup language.
@@ -651,6 +653,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [benbrown/shuttlecraft](https://github.com/benbrown/shuttlecraft) - a single user activitypub server - join the federation!
 - [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer) - Web based viewer for servers and bots
+- [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, talks and other digital resources for learning about Buddhism.
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
@@ -776,6 +779,7 @@
 
 ## Lua 
 
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [snowkittykira/picotron-error-explorer](https://github.com/snowkittykira/picotron-error-explorer) - an interactive error screen for picotron
 - [Rayquaza01/picotron-utilities](https://github.com/Rayquaza01/picotron-utilities) - A collection of basic command line utilities for Picotron
@@ -945,7 +949,6 @@
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, talks and other digital resources for learning about Buddhism.
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) - Platform to run interactive Reinforcement Learning agents in a Minecraft Server
@@ -1066,12 +1069,13 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts.
 - [demoray/azure-pim-cli](https://github.com/demoray/azure-pim-cli) - Unofficial CLI to list and enable Azure Privileged Identity Management (PIM) roles
 - [DanielleMaywood/fyp-gleam](https://github.com/DanielleMaywood/fyp-gleam) - 
 - [glebbash/LO](https://github.com/glebbash/LO) - LO - small programming language targeting WASM that aims to be as simple as possible
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
@@ -1207,7 +1211,6 @@
 ## Shell 
 
 - [biox/shmoji](https://github.com/biox/shmoji) - a little shell-based emoji picker
-- [gleam-community/gleam-install](https://github.com/gleam-community/gleam-install) - An installer for Gleam on Linux and macOS
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
