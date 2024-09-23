@@ -1226,6 +1226,7 @@
 
 ## Swift 
 
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [trill-lang/trill](https://github.com/trill-lang/trill) - A type safe, compiled language inspired by (and written in) Swift
 - [nettlep/magic](https://github.com/nettlep/magic) - Scanner for decks of cards with bar codes printed on card edges
 
