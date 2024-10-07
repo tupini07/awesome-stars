@@ -128,6 +128,7 @@
 
 ## C# # 
 
+- [HearthSim/Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 - [aschuhardt/rosy-crow](https://github.com/aschuhardt/rosy-crow) - A Gemini client for Android
 - [squiggythings/WaveTracker](https://github.com/squiggythings/WaveTracker) - 
 - [aelassas/wexflow](https://github.com/aelassas/wexflow) - .NET Workflow Engine and Automation Platform
@@ -672,7 +673,6 @@
 - [orlowdev/gatsby-source-notion-api](https://github.com/orlowdev/gatsby-source-notion-api) - Gatsby plugin for Notion API
 - [neagle/gokibitz](https://github.com/neagle/gokibitz) - Move-by-move comments on go games.
 - [rooklift/ogatak](https://github.com/rooklift/ogatak) - KataGo analysis GUI and SGF editor
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
 - [caerphoto/whistletab](https://github.com/caerphoto/whistletab) - Tin Whistle tab creator for D-tuned whistles
 - [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server
@@ -936,7 +936,7 @@
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
@@ -1122,7 +1122,7 @@
 - [Nilirad/bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon) - Draw 2D shapes in Bevy
 - [Builditluc/wiki-tui](https://github.com/Builditluc/wiki-tui) - A simple and easy to use Wikipedia Text User Interface
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [Lucretiel/autodefault](https://github.com/Lucretiel/autodefault) - Autodefault automatically makes your struct literals fill themselves with `..default()`
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -1179,7 +1179,7 @@
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [timokoesters/nbodysim](https://github.com/timokoesters/nbodysim) - Realtime 3D N-Body-Simulation
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source. —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [ralfbiedert/ffsvm](https://github.com/ralfbiedert/ffsvm) - FFSVM stands for "Really Fast Support Vector Machine"
 - [mun-lang/mun](https://github.com/mun-lang/mun) - Source code for the Mun language and runtime.
@@ -1271,6 +1271,7 @@
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [aduros/wasm4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
