@@ -96,7 +96,6 @@
 - [janet-lang/jaylib](https://github.com/janet-lang/jaylib) - Janet bindings to Raylib
 - [eduard-permyakov/permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
 - [YakshaLang/Yaksha](https://github.com/YakshaLang/Yaksha) - 😈 Yaksha Programming Language - Offside rule + Lisp system for macros. 🐣 WIP
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [irishgreencitrus/raylib.v](https://github.com/irishgreencitrus/raylib.v) - A simple wrapper for raylib in V
 - [barn-lang/barn](https://github.com/barn-lang/barn) - Barn is a simple programming language written in C that is compiled to C.
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
@@ -151,7 +150,6 @@
 - [BenMakesGames/TinyUnixTimestamp](https://github.com/BenMakesGames/TinyUnixTimestamp) - Adds a system tray icon which can be clicked to copy the current unix timestamp to your clipboard.
 - [isadorasophia/murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 - [isadorasophia/gum](https://github.com/isadorasophia/gum) - A dialogue narrative scripting language that integrates with Murder Engine.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -205,6 +203,7 @@
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [andreer/PotatoP](https://github.com/andreer/PotatoP) - 
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN) - Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
@@ -324,7 +323,7 @@
 
 ## Crystal 
 
-- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web
+- [mint-lang/mint](https://github.com/mint-lang/mint) - :leaves: A refreshing programming language for the front-end web.
 - [kostya/myhtml](https://github.com/kostya/myhtml) - Fast HTML5 Parser with css selectors for Crystal language
 - [elbywan/crystalline](https://github.com/elbywan/crystalline) - A Language Server Protocol implementation for Crystal. 🔮
 - [mccallofthewild/markov](https://github.com/mccallofthewild/markov) - ⛓ A Crystal library for building Markov Chains and running Markov Processes.
@@ -506,6 +505,7 @@
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [SolarLune/tetra3d](https://github.com/SolarLune/tetra3d) - Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebitengine.
+- [vlang/go2v](https://github.com/vlang/go2v) - Go =&gt; V source code translator
 - [gabstv/ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine
 - [Splizard/imgui](https://github.com/Splizard/imgui) - Buggy Pure Go Port of Dear Imgui
 - [hajimehoshi/wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for testing Wasm
@@ -747,6 +747,7 @@
 ## Jupyter Notebook 
 
 - [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
@@ -1098,7 +1099,7 @@
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 - [GetFirefly/firefly](https://github.com/GetFirefly/firefly) - An alternative BEAM implementation, designed for WebAssembly
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [ETBCOR/nasin-nanpa](https://github.com/ETBCOR/nasin-nanpa) - nasin sitelen tan anpa nanpa
+- [etbcor/nasin-nanpa](https://github.com/etbcor/nasin-nanpa) - nasin sitelen tan anpa nanpa
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [lennart-finke/kakikun](https://github.com/lennart-finke/kakikun) - A paint and ASCII art application for the terminal.
@@ -1298,7 +1299,6 @@
 
 ## V 
 
-- [vlang/go2v](https://github.com/vlang/go2v) - Go =&gt; V source code translator
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim Script 
