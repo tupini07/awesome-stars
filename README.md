@@ -50,7 +50,6 @@
 - [Mint](#mint)
 - [MoonScript](#moonscript)
 - [Nim](#nim)
-- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Odin](#odin)
 - [Others](#others)
@@ -199,7 +198,7 @@
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
-- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
+- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -270,7 +269,6 @@
 - [fulcrologic/guardrails](https://github.com/fulcrologic/guardrails) - Efficient, hassle-free function call validation with a concise inline syntax for clojure.spec and Malli
 - [metosin/malli](https://github.com/metosin/malli) - High-performance data-driven data specification library for Clojure/Script.
 - [leonoel/missionary](https://github.com/leonoel/missionary) - A functional effect and streaming system for Clojure/Script
-- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to manage the frontend/backend boundary
 - [seancorfield/clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates!
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A fast, immutable, distributed & compositional Datalog engine for everyone.
 - [datacrypt-project/hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure
@@ -580,6 +578,7 @@
 - [Ashe/Notakto](https://github.com/Ashe/Notakto) - The game of Notakto, made in Haskell with Apecs and Raylib
 - [haskell-webdriver/haskell-webdriver](https://github.com/haskell-webdriver/haskell-webdriver) - A Haskell client for the Selenium WebDriver protocol.
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [carp-lang/Carp](https://github.com/carp-lang/Carp) - A statically typed lisp, without a GC, for real-time applications.
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [commercialhaskell/rio](https://github.com/commercialhaskell/rio) - A standard library for Haskell
@@ -655,7 +654,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [benbrown/shuttlecraft](https://github.com/benbrown/shuttlecraft) - a single user activitypub server - join the federation!
 - [PrismarineJS/prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer) - Web based viewer for servers and bots
-- [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, talks and other digital resources for learning about Buddhism.
+- [buddhist-uni/buddhist-uni.github.io](https://github.com/buddhist-uni/buddhist-uni.github.io) - Free courses, books, and talks about Buddhism.
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 - [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 - [kenan238/reblessed](https://github.com/kenan238/reblessed) - A high-level terminal interface library for node.js.
@@ -863,10 +862,6 @@
 - [fowlmouth/nake](https://github.com/fowlmouth/nake) - Describe your Nim builds as tasks
 - [dom96/jester](https://github.com/dom96/jester) - A sinatra-like web framework for Nim.
 
-## Nix 
-
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
-
 ## OCaml 
 
 - [kiranandcode/ocamlot](https://github.com/kiranandcode/ocamlot) - An Activitypub server in OCaml!
@@ -884,6 +879,7 @@
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [ianriva/xfce4-terminal-themes](https://github.com/ianriva/xfce4-terminal-themes) - A collection of themes for the xfce terminal emulator
 - [awesome-dragonruby/awesome-dragonruby](https://github.com/awesome-dragonruby/awesome-dragonruby) - A collection of awesome DragonRuby example apps, libraries, tools, frameworks, software and resources
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - Electric Clojure: full-stack differential dataflow for UI
 - [lukewilliamboswell/roc-awesome](https://github.com/lukewilliamboswell/roc-awesome) - Awesome Roc
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -932,7 +928,7 @@
 
 - [dunalduck0/azure_pim](https://github.com/dunalduck0/azure_pim) - PIM through Azure portal is slow and cannot be automated. This repo tries to implement a CLI version that is based on mainly REST API and AZCLI  This code borrowed insights from other repos: https://g
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Open and self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Access from web, obsidian, emacs,
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
 - [muskankhaneja/Chatbot-with-Langchain-and-Streamlit](https://github.com/muskankhaneja/Chatbot-with-Langchain-and-Streamlit) - 
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
