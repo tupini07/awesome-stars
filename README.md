@@ -459,7 +459,7 @@
 - [bouncepaw/mycorrhiza](https://github.com/bouncepaw/mycorrhiza) - 🍄📑 Filesystem and git-based wiki engine for the independent web written in Go and using Mycomarkup as its primary markup language.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [biox/vore](https://github.com/biox/vore) - a simple, multi-tenant feed reader
+- [biox/vore](https://github.com/biox/vore) - a simple, multi-tenant rss feed reader
 - [xNaCly/Sophia](https://github.com/xNaCly/Sophia) - Lisp like, embeddable and extendable scripting language supporting go interoperability
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
@@ -1113,7 +1113,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [gamercade-io/gamercade_console](https://github.com/gamercade-io/gamercade_console) - A Neo-Retro Fantasy Console. Make WASM-powered, networked multiplayer games.
 - [valence-rs/valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
 - [Toqozz/bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines) - A prototype plugin providing a simple line drawing api for bevy.
