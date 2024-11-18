@@ -256,6 +256,7 @@
 
 ## Clojure 
 
+- [damn/moon](https://github.com/damn/moon) - RPG Maker & Engine
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [NoahTheDuke/splint](https://github.com/NoahTheDuke/splint) - A Clojure linter focused on style and code shape.
 - [clj-commons/kibit](https://github.com/clj-commons/kibit) - There's a function for that!
@@ -336,6 +337,7 @@
 
 ## Dart 
 
+- [serverpod/serverpod](https://github.com/serverpod/serverpod) - Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Steellow/zen](https://github.com/Steellow/zen) - Minimal meditation app
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
@@ -643,6 +645,7 @@
 
 ## JavaScript 
 
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 - [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
@@ -745,7 +748,6 @@
 ## Jupyter Notebook 
 
 - [microsoft/lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) - FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
@@ -943,6 +945,7 @@
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython
@@ -1046,7 +1049,7 @@
 
 ## ReScript 
 
-- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Ruby 
 
