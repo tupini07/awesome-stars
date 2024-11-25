@@ -179,7 +179,7 @@
 - [scale-tone/linq2dynamodb](https://github.com/scale-tone/linq2dynamodb) - A type-safe data context for AWS DynamoDB with LINQ and in-memory caching support. Allows to combine DynamoDB's durability with cache speed and read consistency
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [lucasassislar/nucleuscoop](https://github.com/lucasassislar/nucleuscoop) - Starts multiple instances of a game for split-screen multiplayer gaming!
+- [distrohelena/nucleuscoop](https://github.com/distrohelena/nucleuscoop) - Starts multiple instances of a game for split-screen multiplayer gaming!
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [matteocontrini/locuspocusbot](https://github.com/matteocontrini/locuspocusbot) - Telegram bot for finding free and occupied rooms in UniTN buildings
 - [Xeroday/Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
@@ -256,6 +256,7 @@
 
 ## Clojure 
 
+- [mauricioszabo/lazuli](https://github.com/mauricioszabo/lazuli) - Interactive development for the Ruby language
 - [damn/moon](https://github.com/damn/moon) - RPG Maker & Engine
 - [eliascotto/tryclojure](https://github.com/eliascotto/tryclojure) - Clojure live REPL tutorial
 - [NoahTheDuke/splint](https://github.com/NoahTheDuke/splint) - A Clojure linter focused on style and code shape.
@@ -373,7 +374,7 @@
 ## Emacs Lisp 
 
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
-- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄 + a shell maker for other providers
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini) + editing integrations
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [Kodiologist/Daylight](https://github.com/Kodiologist/Daylight) - Open-notebook science in Org mode
@@ -446,7 +447,7 @@
 - [PROMETHIA-27/mote](https://github.com/PROMETHIA-27/mote) - 
 - [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid transactional email API
 - [Willyboar/glove](https://github.com/Willyboar/glove) - Gleam Library to generate QBE IR code
-- [nakaixo/nakai](https://github.com/nakaixo/nakai) - An HTML generation library for building web apps with Gleam ✨
+- [aslilac/nakai](https://github.com/aslilac/nakai) - An HTML generation library for building web apps with Gleam ✨
 
 ## Go 
 
@@ -927,6 +928,7 @@
 
 ## Python 
 
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 - [dunalduck0/azure_pim](https://github.com/dunalduck0/azure_pim) - PIM through Azure portal is slow and cannot be automated. This repo tries to implement a CLI version that is based on mainly REST API and AZCLI  This code borrowed insights from other repos: https://g
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
