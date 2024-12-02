@@ -374,7 +374,7 @@
 ## Emacs Lisp 
 
 - [licht1stein/obsidian.el](https://github.com/licht1stein/obsidian.el) - Obsidian Notes for Emacs
-- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini) + editing integrations
+- [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Ollama, Perplexity) + editing integrations
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [LuxLang/lux](https://github.com/LuxLang/lux) - The Lux Programming Language
 - [Kodiologist/Daylight](https://github.com/Kodiologist/Daylight) - Open-notebook science in Org mode
