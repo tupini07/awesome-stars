@@ -484,6 +484,7 @@
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -1216,7 +1217,6 @@
 - [biox/shmoji](https://github.com/biox/shmoji) - a little shell-based emoji picker
 - [workman-layout/Workman](https://github.com/workman-layout/Workman) - Workman keyboard layout
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
 - [NickTomlin/rust-rsay](https://github.com/NickTomlin/rust-rsay) - It's cowsay... in Rust
 - [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, , 20+ connectors
@@ -1251,7 +1251,7 @@
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [robertknight/tesseract-wasm](https://github.com/robertknight/tesseract-wasm) - JS/WebAssembly build of the Tesseract OCR engine for use in browsers and Node
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [cq2-co/cq2](https://github.com/cq2-co/cq2) - Tool for RFCs
+- [anandbaburajan/cq2](https://github.com/anandbaburajan/cq2) - Tool for RFCs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Pictogrammers/Memory](https://github.com/Pictogrammers/Memory) - Memory Icon Set; ideal for use with Sharp Memory Display 2.7"
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
